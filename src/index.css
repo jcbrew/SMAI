@@ -1,0 +1,386 @@
+@font-face {
+    font-family: RobotoCondensed;
+    src: url(assets/roboto-condensed.light.ttf);
+    font-weight:800;
+}
+
+@font-face {
+    font-family: EconomicaBold;
+    src: url(assets/economica-bold.ttf);
+}
+
+@font-face {
+    font-family: RobotoBold;
+    src: url(assets/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: RobotoMedium;
+    src: url(assets/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: RobotoLight;
+    src: url(assets/Roboto-Light.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+
+
+body {
+    background-color: #fff;
+    font-size: 16px;
+    font-family: 'RobotoCondensed';
+}
+
+.header {
+    position: fixed;
+    z-index: 1000;
+    padding: 1rem 0;
+    top: 0;
+    width: 100%;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
+
+.logo {
+    margin-right: 4rem;
+    margin-left: 2rem;
+    height: 80px;
+}
+
+.pageWrapper{
+    display: block;
+    position: relative;
+}
+
+.contentWrapper {
+    position: relative;
+    top: 1rem
+}
+
+b, strong {
+    font-family: 'EconomicaBold';
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'EconomicaBold';
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+
+.content {
+    display: inline-block; /*added*/
+    text-align: left;
+    line-height: 24px;
+    margin:25px 9.5%;
+}
+
+.card-body .content   {
+    display: contents;
+}
+
+ul, ol {
+    list-style-position: outside;
+    margin: 30px;
+  }
+
+  li {
+      padding-left:10px;
+  }
+
+  .responsiveImage{
+      width:100%;
+  }
+
+  .bannerWrapper {
+    display:flex;
+    background-image: url('/karate_banner01.jpg');
+    background-position: top center;
+    background-size: cover;
+    min-height: 450px;
+    margin-bottom: 0rem;
+  }
+
+ .bannerWrapper.adult  {
+    background-image: url('/karate_banner01.jpg');
+  }
+
+  .bannerWrapper.children  {
+     background-image: url('/karate_banner02.jpg');
+   }
+
+   .bannerWrapper.history  {
+      background-image: url('/karate_banner04.jpg');
+    }
+
+    .bannerWrapper.contact  {
+       background-image: url('/karate_banner03.jpg');
+     }
+
+  .bannerTitle {
+      display: flex;
+      text-transform: uppercase;
+    font-size: 10vw;
+    align-self: flex-end;
+    font-family: RobotoBold;
+    line-height: .8;
+    opacity: 0.5;
+    color: white;
+  }
+
+  .boldText{
+      font-weight: 700;
+  }
+
+  .masterButtons{
+      margin-top:30px;
+      margin-bottom:20px;
+  }
+
+  .noBullets{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  /*//////////////////////////////*/
+
+  .text-wrapper {
+    position: absolute;
+    top:30px;
+}
+
+.animatedText {
+    padding: 32px 20px 20px;
+    margin-top: 0px;
+    background-color: black;
+    display: block;
+}
+
+.animation {
+    font-family: RobotoBold;
+    font-size: 1.25rem;
+    font-weight: 700;
+    position: relative;
+    -webkit-animation-name: animatedIntroText;
+    animation-name: animatedIntroText;
+    animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+}
+
+.animation.animation-1 {
+    /* font-size: 1.25rem;
+    font-weight: 700; */
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s;
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+}
+
+
+.animation.animation-2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    -webkit-animation-delay: 3s;
+    -webkit-animation-duration: 4s;
+    animation-duration: 4s;
+    animation-delay: 3s;
+}
+
+
+.animation.animation-3 {
+    font-size: 1.25rem;
+    font-weight: 900;
+    -webkit-animation-delay: 6s;
+    -webkit-animation-duration: 4s;
+    animation-duration: 4s;
+    animation-delay: 6s;
+}
+
+
+.animation.animation-4 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    -webkit-animation-delay: 10s;
+    -webkit-animation-duration: 4s;
+    animation-delay: 10s;
+    animation-duration: 4s;
+}
+
+
+.animation.animation-5 {
+    font-size: 1.2rem;
+    font-weight: 900;
+    -webkit-animation-delay: 14s;
+    -webkit-animation-duration: 4s;
+    animation-delay: 14s;
+    animation-duration: 4s;
+}
+
+
+.animation.animation-6 {
+    -webkit-animation-delay: 18s;
+    -webkit-animation-duration: 4s;
+    animation-duration: 4s;
+    animation-delay: 18s;
+}
+
+
+.animation.animation-7 {
+    -webkit-animation-delay: 22s;
+    -webkit-animation-duration: 4s;
+    animation-duration: 4s;
+    animation-delay: 22s;
+}
+
+
+.animation.animation-8 {
+    -webkit-animation-delay: 26s;
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+    animation-delay: 26s;
+}
+
+
+.animation.animation-9 {
+    font-size: 1.5rem;
+    font-weight: 900;
+    -webkit-animation-delay: 28s;
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+    animation-delay: 28s;
+}
+
+
+.fade-in {
+    position: relative;
+    margin: 10px 0;
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 5s;
+    animation-delay: 1s;
+    animation-fill-mode: both;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes animatedIntroText {
+    0% {
+        color: rgba(0, 0, 0, 0);
+        left: -100px;
+        top: 0px;
+    }
+
+    100% {
+        color: rgba(255, 255, 255, .5);
+        left: 0px;
+        top: 0px;
+    }
+}
+
+/* Standard syntax */
+@keyframes animatedIntroText {
+    0% {
+        color: rgba(0, 0, 0, 0);
+        left: -100px;
+        top: 0px;
+    }
+
+    100% {
+        color: rgba(255, 255, 255, .5);
+        left: 0px;
+        top: 0px;
+    }
+}
+
+
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/* Standard syntax */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.creeds p {
+    font-size: 1rem;
+}
+
+.rules {
+    display:block; /*changed from flex*/
+    background-color: #edf4fa;
+}
+
+.schedule {
+    display:block; /*changed from flex*/
+    background-color: #edf4fa;
+}
+
+.footer {
+    font-size: .875rem;
+    line-height: 1rem;
+    display:block; /*changed from flex*/
+    color:#fff;
+    background-color: #000;
+    min-height: 12rem;
+}
+
+.footer p {
+    line-height: 1.5rem;
+}
+
+
+.contact-us {
+    color:#fff;
+    display:flex;
+    background-color: #216bb9;
+}
+
+.img-w-100 img {
+    width:90%;
+    margin-bottom: 1rem;
+}
+
+.child-title{
+    width:95%;
+    height: 4rem;
+    padding: 1rem 0;
+}
+
+@media (min-width: 610px){
+    .child-title{
+        width:90%;
+    }
+}
+
+/*// Bootstrap Customization //*/
+
+.bg-dark{
+    background-color: #000!important;
+}

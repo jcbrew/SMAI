@@ -1,0 +1,35 @@
+{
+  "name": "smai",
+  "homepage": "jayesonbrewster.com/",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./",
+    "start": "npm run build && live-server dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.2.3",
+    "assets": "^3.0.1",
+    "history": "^4.7.2",
+    "live-server": "^1.2.1",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.12.0",
+    "react-audio-player": "^0.11.1",
+    "react-dom": "^16.12.0",
+    "react-hot-loader": "^4.12.18",
+    "react-iframe": "^1.8.0",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.3.0",
+    "redux": "^4.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0"
+  }
+}
