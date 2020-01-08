@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Header from './Header';
+import Footer from './Footer';
 
 
 class Masters extends Component {
@@ -475,6 +476,9 @@ class Masters extends Component {
                         </div>
 
                     </section>
+                </div>
+                <div className='footer'>
+                    <Footer />
                 </div>
             </div>
         );

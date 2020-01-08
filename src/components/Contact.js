@@ -9,13 +9,13 @@ class Contact extends Component {
 
     componentDidMount() {
 
-        //fetch('https://www.jayesonbrewster.com/display_table.php')
-        fetch('http://localhost:1234/contact.json')
-
+        fetch('contact.json')
+            //fetch('http://localhost:1234/contact.json')
+            //console.log('hello');
             .then(response => response.json())
             .then(json => this.setState({ contact: json }));
 
-        // .catch(() => console.log("Can’t access " + url + " response. Blocked by browser?"));
+        //.catch(() => console.log("Can’t access " + url + " response. Blocked by browser?"));
 
     }
 
