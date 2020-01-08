@@ -11,8 +11,8 @@ const store = createStore(reducer);
 
 import './index.css';
 
-console.log(store.getState())
+//console.log(store.getState())
 
 ReactDOM.render(
-<Provider store={store}><App /></Provider>, 
-document.getElementById('root'));
+    <Provider store={store}><App /></Provider>,
+    document.getElementById('root'));
