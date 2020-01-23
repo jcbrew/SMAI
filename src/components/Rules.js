@@ -5,7 +5,7 @@ const Rules = () => {
     return (
         // <div className='rules mt-5'>
 
-        <div className="contentWrapper content">
+        <div className="container py-5">
             <h3>GENERAL DOJO RULES</h3>
             <ul className="nav nav-tabs" role="tablist">
                 <li className="nav-item">

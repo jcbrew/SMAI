@@ -37,32 +37,32 @@ const Questions = () => {
 
 
             <div className="tab-content mt-5">
-                <div id="q1" className="container tab-pane active">
-                    <h4>What is Karate?</h4>
+                <div id="q1" className="content tab-pane active">
+                    <h4><em>What is Karate?</em></h4>
                     <p>Translated karate means “empty hand”. The oriental art of unarmed self-defense has been around since ancient times. It is the ultimate power of the unity of mind and body. People spend their lives training their spirits as well as their bodies. In addition to being an excellent self-defense system, sport, and work-out, karate provides a heightened appreciation of one’s self and the world. The combination of strength, grace and precision give students self confidence while developing their body, integrity and serenity.</p>
                 </div>
-                <div id="q2" className="container tab-pane fade">
-                    <h4>What will I learn in the beginning?</h4>
+                <div id="q2" className="content tab-pane fade">
+                    <h4><em>What will I learn in the beginning?</em></h4>
                     <p>The first three months will be dedicated to basic exercises, punches and stretches. You will also learn basic self-defense techniques that will eventually be used in classroom sparring. You will also learn the moves that will lead you to your first belt promotion.</p>
                 </div>
-                <div id="q3" className="container tab-pane fade">
-                    <h4>Is karate training difficult?</h4>
+                <div id="q3" className="content tab-pane fade">
+                    <h4><em>Is karate training difficult?</em></h4>
                     <p>Yes and No. Since karate is an individual sport, you can work at a pace you feel comfortable with. The hardest part of karate is the mental conditioning. But as your karate improves, so will your physical power and mind control.</p>
                 </div>
-                <div id="q4" className="container tab-pane fade">
-                    <h4>Who can do karate?</h4>
+                <div id="q4" className="content tab-pane fade">
+                    <h4><em>Who can do karate?</em></h4>
                     <p>Anyone, any age, any sex. As a form of fitness for the mind and body, karate is a sport for everyone.</p>
                 </div>
-                <div id="q5" className="container tab-pane fade">
-                    <h4>How will karate help me?</h4>
+                <div id="q5" className="content tab-pane fade">
+                    <h4><em>How will karate help me?</em></h4>
                     <p>Karate improves individuals both mentally and physically. Some benefits you will experience from karate are physical conditioning, improved concentration, self-confidence, inner peace, self-defense, weight control, more energy, self-discipline, athletic skills, improved mental attitude, temper control, improved grades, and respect for self and others.</p>
                 </div>
-                <div id="q6" className="container tab-pane fade">
-                    <h4>How often should I train?</h4>
+                <div id="q6" className="content tab-pane fade">
+                    <h4><em>How often should I train?</em></h4>
                     <p>For a constant progression in belts, biweekly formal classroom sessions and daily practices at home are recommended.</p>
                 </div>
-                <div id="q7" className="container tab-pane fade">
-                    <h4>How will I progress?</h4>
+                <div id="q7" className="content tab-pane fade">
+                    <h4><em>How will I progress?</em></h4>
                     <p>The progression of belts depends on the amount of dedication and discipline each student can give. But the average progression of the belts is as follows:</p>
                     <div className="row">
                         <div className="col-lg-4">
@@ -92,8 +92,8 @@ const Questions = () => {
                                 Black Belt – 3 ½ - 4 years</p></div>
                     </div>
                 </div>
-                <div id="q8" className="container tab-pane fade">
-                    <h4>Why Isshinryu Karate?</h4>
+                <div id="q8" className="content tab-pane fade">
+                    <h4><em>Why Isshinryu Karate?</em></h4>
                     <p>Isshinryu (one heart/mind) was developed by Sensei Shimabuku, Okinawa's Grand Master of Shorin-Ryu, who devoted his life to the study of karate. He was a master of Goju-Ryu; studied Kobayshi-Ryu under famous Chotokan Kiyan and later under legendary Choki Motobu. He then studied the art of Bo and Sai weapons defense and Tee-faa under Okinawa's most noted instructors. Master Shimabuku combined the best of these styles into Isshinryu, which epitomizes the powerful, lightening-fast techniques that in ancient times enabled the weaponless Okinawans to defeat the sword-wielding Samurai warriors of Japan.</p>
 
                     <p>Isshinryu's main objective is the perfection of oneself through both physical and mental development. As students learn the art of self defense, they acquire self-confidence, serenity and the ability to concentrate. Isshinryu Karate combines a well rounded exercise program with some important advantages over other styles, including:</p>
