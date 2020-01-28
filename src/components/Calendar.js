@@ -34,32 +34,32 @@ class Calendar extends Component {
                         <div className="col-12">{this.props.day}</div>
                     </div>
                     <div className="row">
-                        <div className="col-sm-6 font-weight-bold">{this.props.time1_title}</div>
-                        <div className="col-sm-6">{this.props.time1}</div>
+                        <div className="col-sm-7 font-weight-bold">{this.props.time1_title}</div>
+                        <div className="col-sm-5">{this.props.time1}</div>
                     </div>
                     <div className="row">
-                        <div className="col-sm-6 font-weight-bold">{this.props.time2_title}</div>
-                        <div className="col-sm-6">{this.props.time2}</div>
+                        <div className="col-sm-7 font-weight-bold">{this.props.time2_title}</div>
+                        <div className="col-sm-5">{this.props.time2}</div>
                     </div>
                     <div className="row">
-                        <div className="col-sm-6 font-weight-bold">{this.props.time3_title}</div>
-                        <div className="col-sm-6">{this.props.time3}</div>
+                        <div className="col-sm-7 font-weight-bold">{this.props.time3_title}</div>
+                        <div className="col-sm-5">{this.props.time3}</div>
                     </div>
                     <div className="row">
-                        <div className="col-sm-6 font-weight-bold">{this.props.time4_title}</div>
-                        <div className="col-sm-6">{this.props.time4}</div>
+                        <div className="col-sm-7 font-weight-bold">{this.props.time4_title}</div>
+                        <div className="col-sm-5">{this.props.time4}</div>
                     </div>
                     <div className="row">
-                        <div className="col-sm-6 font-weight-bold">{this.props.time5_title}</div>
-                        <div className="col-sm-6">{this.props.time5}</div>
+                        <div className="col-sm-7 font-weight-bold">{this.props.time5_title}</div>
+                        <div className="col-sm-5">{this.props.time5}</div>
                     </div>
                     <div className="row">
-                        <div className="col-sm-6 font-weight-bold">{this.props.time6_title}</div>
-                        <div className="col-sm-6">{this.props.time6}</div>
+                        <div className="col-sm-7 font-weight-bold">{this.props.time6_title}</div>
+                        <div className="col-sm-5">{this.props.time6}</div>
                     </div>
                     <div className="row">
-                        <div className="col-sm-6 font-weight-bold">{this.props.time7_title}</div>
-                        <div className="col-sm-6">{this.props.time7}</div>
+                        <div className="col-sm-7 font-weight-bold">{this.props.time7_title}</div>
+                        <div className="col-sm-5">{this.props.time7}</div>
                     </div>
 
                 </section>

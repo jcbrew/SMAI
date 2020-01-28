@@ -36,7 +36,7 @@ const Questions = () => {
 
 
 
-            <div className="tab-content mt-5">
+            <div className="tab-content">
                 <div id="q1" className="content tab-pane active">
                     <h4><em>What is Karate?</em></h4>
                     <p>Translated karate means “empty hand”. The oriental art of unarmed self-defense has been around since ancient times. It is the ultimate power of the unity of mind and body. People spend their lives training their spirits as well as their bodies. In addition to being an excellent self-defense system, sport, and work-out, karate provides a heightened appreciation of one’s self and the world. The combination of strength, grace and precision give students self confidence while developing their body, integrity and serenity.</p>

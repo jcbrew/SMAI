@@ -31,15 +31,15 @@ class Children extends Component {
                             </div>
                         </div>
                         <div className='row'>
-                            <div className='col-lg-4 col-sm-6 my-lg-3 img-w-100'>
+                            <div className='col-lg-4 col-sm-6 my-lg-5 img-w-100'>
                                 <div className='child-title'><h5>Greater academic achievement</h5></div>
                                 <div><img src={img1} /> </div>
                             </div>
-                            <div className='col-lg-4 col-sm-6 my-lg-3 img-w-100'>
+                            <div className='col-lg-4 col-sm-6 my-lg-5 img-w-100'>
                                 <div className='child-title'><h5>Unshakable self respect</h5></div>
                                 <div><img src={img2} /> </div>
                             </div>
-                            <div className='col-lg-4 col-sm-6 my-lg-3 img-w-100'>
+                            <div className='col-lg-4 col-sm-6 my-lg-5 img-w-100'>
                                 <div className='child-title'><h5>Increased strength and fitness, in both body and mind</h5></div>
                                 <div><img src={img3} /> </div>
                             </div>
@@ -49,7 +49,7 @@ class Children extends Component {
                                 <p>Look at it this way, your child’s first and biggest challenge comes not from “fighting for his rights on the street,” or “beating up the neighborhood bully.” Instead, it comes from battling more sinister forces, your child’s own fears and self doubts:</p>
 
                             </div></div>
-                        <div className='row my-3'>
+                        <div className='row my-5'>
                             <div className='col-12 col-md-4 img-w-100'>
                                 <img src={img4} />
                             </div>

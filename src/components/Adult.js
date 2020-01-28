@@ -18,7 +18,7 @@ class Adult extends Component {
                     <div className='bannerTitle'>Adult Program</div>
                     {/* <div><img src={newsletterImage} className='responsiveImage' alt="newsletter" /></div> */}
                 </div>
-                <div className="container pt-5">
+                <div className="container py-5">
                     <h2>The Program That Gets Results!</h2>
                     <section>
                         <p>We have set a goal at Southfield Martial Arts Insitute. Our goal is to get out the message about the benefits of our unique program. We have seen some astounding results in our school. The redefined adult classes were structured after careful study and research by Grand Master Willie Adams. He has developed a results orientated fitness program that stresses the following essential elements.</p>

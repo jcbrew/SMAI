@@ -48,7 +48,7 @@ class Intro extends Component {
 
                 </div>
 
-                <div className='container pt-5'>
+                <div className='container py-5'>
                     <h1>About Our School</h1>
                     <section>
                         <p>The Southfield Martial Arts Institute is the ultimate contemporary training complex. It’s over 15,000 square foot state-of-the-art facility makes it one of the largest and finest martial art schools in the country.</p>

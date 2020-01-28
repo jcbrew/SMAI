@@ -10,7 +10,7 @@ const ContactUs = () => {
                     <h3>Let us show you how we can help you train your mind and body.</h3>
                 </div>
                 <div className="col-md-4 ">
-                    <button className="btn btn-primary float-right">Learn More About Us</button>
+                    <button className="btn btn-outline-light float-right">Learn More About Us</button>
 
                 </div>
 

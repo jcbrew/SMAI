@@ -47,7 +47,7 @@ class Masters extends Component {
                         </ul>
 
                         <div className="tab-content mt-5">
-                            <div id="Kyan" className="container tab-pane active">
+                            <div id="Kyan" className="container tab-pane active mt-3">
                                 <h2>Master Chotoku Kyan</h2>
                                 <p>Chotoku Kyan was born in Shuri, Okinawa in December 1870 and was the first son of Chofu Kyan. Chofu Kyan had been a descendant of the fourth Ryukyuan king, Shoshi. Kyan (also sometimes pronounced Kiyuabu) was born a frail child, but through his martial arts training he developed into a strong adult and his health improved much. He had begun his training in karate-do at the age of five years old.</p>
 
@@ -64,7 +64,7 @@ class Masters extends Component {
                                 <p>Kyan felt strongly about the ancient code of Bushido and felt that every martial artist should follow it totally. He was both a perfectionist and a disciplinarian, in both his own training and also his teaching. He believed that self-discipline and social order and justice went hand in hand. He was also quoted as saying &quot;superior conditioning can only be built on relentless effort. The size of one&apos;s body is irrelevant&quot;.</p>
 
                                 <p>Master Chotoku Kyan died Ishikawa City, Okinawa, on 20th September 1945 - he was 76 years old.</p></div>
-                            <div id="Motobu" className="container tab-pane fade">
+                            <div id="Motobu" className="container tab-pane fade mt-3">
                                 <h2>Master Choki Motobu</h2>
 
                                 <p>
@@ -119,7 +119,7 @@ class Masters extends Component {
                                     Yet according to those who knew him best, Shoshin Nagamine and Yasuhiro Konishi, Choki Motobu grew spiritually and matured in his later years. His goal was to teach and train in Karate as it should be, as a form of Jissen Kempo, real fighting martial arts. In time he realized that he did not have to fight others to reach the true depths of the martial arts, but rather he had to practice his skills in Kata and in his own unique Kihon Kumite to open his spirit to the highest levels of development. In the end, he finally conquered his greatest enemy, his own insecurity, which kept him fighting in his youth to uphold an honor which was never tarnished.
 </p>
                             </div>
-                            <div id="Miyagi" className="container tab-pane fade">
+                            <div id="Miyagi" className="container tab-pane fade mt-3">
                                 <h2>Master Chojun Miyagi</h2>
 
                                 <p>
@@ -175,7 +175,7 @@ class Masters extends Component {
 </p>
 
                             </div>
-                            <div id="Shimabuku" className="container tab-pane fade">
+                            <div id="Shimabuku" className="container tab-pane fade mt-3">
                                 <h2>Chief Grand Master Shimabuku</h2>
 
                                 <p>
@@ -210,8 +210,8 @@ class Masters extends Component {
                                     After the war he returned to farming and practiced Karate privately for his own spiritual repose and physical exercise, but as the island&apos;s leading practitioner of both Shorin-Ryu and Goju-Ryu styles of Karate, he felt a strong need to combine the various styles of Karate into one. After consulting the aged masters and the heads of schools. Shimabuku Tatsuo founded one of the world&apos;s major systems of Karate, Isshinryu.
 </p>
                             </div>
-                            <div id="Chapman" className="container tab-pane fade">
-                                <h2>Chapman</h2>
+                            <div id="Chapman" className="container tab-pane fade mt-3">
+                                <h2>James A. Chapman</h2>
 
                                 <p>
                                     James A. Chapman began his study of Isshinryu Karate under Master Don Nagle in May of 1958. He attained the rank of Sho-Dan in the near record time of fourteen months which was awarded him in July of 1959. Soon after his discharge from the U.S. Marine Corps, he went to Jersey City and became a partner in the association of Master Nagle. His training in karate progressed favorably under Master Nagle and he received the rank of Ni-Dan in March of 1960.
@@ -233,8 +233,8 @@ class Masters extends Component {
                                     On May 2, 1971, Sensei James Chapman was killed in an automobile accident. Ironically, he was on his way to the funeral of his friend, Sensei Doug Noxon, who had also died in an automobile accident five days earlier.
 </p>
                             </div>
-                            <div id="Uezu" className="container tab-pane fade">
-                                <h2>Uezu</h2>
+                            <div id="Uezu" className="container tab-pane fade mt-3">
+                                <h2>Master Uezu</h2>
 
                                 <p>
                                     Angi Uezu was born January 3, 1935, in Chiyaranka City on the island of Saipan. His father was 6th generation Okinawan of Sumarai lineage from Shuri, his ancestors served under the King of Okinawa in the city of Gushikawa. In the 1930’s work on Okinawa was hard to find, so as a young man his father traveled to Saipan to find work in the sugar cane fields and start a better life. While in Saipan his father found his first wife and the mother of Angi Uezu who was the third of four brothers.
@@ -304,8 +304,8 @@ class Masters extends Component {
                                     Being the ultimate Bushido man he still practices karate everyday in his dojo, (while his wife is taking a nap), he walks 5 miles, and tells anyone who will listen the benefits of karate. This man will never rest, &quot;One day I’ll die and there will be plenty of time to rest, right now I’m too busy&quot;.
 </p>
                             </div>
-                            <div id="Nagle" className="container tab-pane fade">
-                                <h2>Nagle</h2>
+                            <div id="Nagle" className="container tab-pane fade mt-3">
+                                <h2>Master Nagle</h2>
 
                                 <p>
                                     Master Nagle was born on April 5th, 1938. Master Don Nagle began his study of Isshinryu karate before the close of 1955 in the Kyan (Pronounced Chun) village in Okinawa, Japan with founder Tatsuo Shimabuku.
@@ -427,8 +427,8 @@ class Masters extends Component {
                                     Master Nagle&apos;s philosophy was this, &quot;It is not the critic who counts, not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly; who errs, and comes short again and again because there is no effort without error and shortcomings; but who does actually strive to do the deeds. Master Don Nagle passed away on August 23rd, 1999 at the age of 61. Master Nagle will be sorely missed by all we love you Sensei. Oss!
 </p>
                             </div>
-                            <div id="Noxon" className="container tab-pane fade">
-                                <h2>Noxon</h2>
+                            <div id="Noxon" className="container tab-pane fade mt-3">
+                                <h2>Doug Noxon</h2>
 
                                 <p>
                                     Doug Noxon was born in 1929, and served in the U.S. Army during the Korean war. After discharge, he took up competitive weight-lifting and managed to attain several state records for his weight class in Illinois. Subsequently, he took up the study of Judo, then Kempo, in the Chicago area, earning a Brown Belt in both arts.
@@ -442,39 +442,31 @@ class Masters extends Component {
                                     Sensei Noxon&apos;s life ended tragically in an auto accident on April 27, 1971. Sensei Noxon was married and left four children, one of whom, Terry Noxon-Tutor, has followed in her father&apos;s footsteps and holds a Black Belt in Isshinryu.
 </p>
                             </div>
-                            <div id="Adams" className="container tab-pane fade">
+                            <div id="Adams" className="container tab-pane fade mt-3">
                                 <h2>Hanshi Willie Adams</h2>
-
                                 <p>
                                     Willie Adams long and colorful history as one of the most prominent and respected martial artists in America began in the late 1950&apos;s and early 1960&apos;s, when he earned his Black Belt in Isshin-Ryu Karate under Masters Don Nagle, James Chapman and Doug Noxon. In addition, Sensei Adams also had the opportunity to study other martial arts, including Shotokan under Master Ozaki, Kung Fu under Masters Lee and Wong, Aikido under Master Yusuda, Judo under Master John Osako, and the arts of Quan Tao and Poke Lon under Master Phil Reeders.
 </p>
-
                                 <p>
                                     His complete dedication to the martial arts laid the groundwork for a stellar tournament career, spanning the years 1963-1975. Always a fierce, top notch competitor, highlights of Master Adams&apos; accomplishments include winning several Illinois, Indiana, Michigan, Ohio and Pennsylvania State Championships in the weapons and empty-hand kata, kumite and breaking divisions.
 </p>
-
                                 <p>
                                     He won the 1966 International Karate Championship Black Belt kumite division, and was also a member of the United States International Karate Team in 1964. He was an outstanding coach as well. In the 1970&apos;s, as Captain of the Detroit All-Stars Karate Team, he led his fighters to two years of undefeated success in tournaments throughout the East Coast and Midwest. In 1972, his team competed against Chuck Norris&apos; team to a draw for the title of United States Team Champions.
 </p>
-
                                 <p>
                                     Sensei Adams is also involved in the administrative side of the martial arts. He was a member of Grandmaster Shimabuku&apos;s first, original organization, the Okinawan American Karate Association (OAKA). Later, he became the state representative, then the regional representative, Vice-President, and finally President of the American Okinawan Karate Association (AOKA). As a result of his unflagging dedication to and high level of achievement in the Art of Isshin-Ryu Karate, Sensei Adams has received many honors, including induction into the International Karate Hall of Fame, the Michigan Karate Hall of Fame the Spirit of Isshinryu Award. Most recently, he was inducted into the International Afro-American Sports Hall of Fame, an honor of which he is very proud.
 </p>
-
                                 <p>
                                     Sensei Adams has also owned and operated a number of successful businesses outside of the dojo, including a limousine service, the Worldwide Import/Export Company, Renaissance Security Investigation Company and Panther Brand Karate Uniform Company.
 </p>
-
                                 <p>
                                     Today, he owns one of the most successful Karate schools in Michigan, trains all of the major police departments in the area, including the Wayne County Sheriff&apos;s Department, the Detroit and the Southfield Police Department and several other law enforcement agencies. He is licensed by the State of Michigan as a private investigator, and is also active in the Southfield Police Department D. A. R. E. program, developed to keep kids off of drugs.
 </p>
-
                                 <p>
                                     Sensei Adams was born on January 20th, 1946, and he was educated at Southeastern High School, Cass Technical High School, Highland Park Community College and Wayne State University.
                                 </p>
                             </div>
                         </div>
-
                     </section>
                 </div>
                 <div className='footer'>
