@@ -72,7 +72,7 @@ a {
 
 b, strong {
     font-family: 'RobotoMedium';
-    color: #6f0000;
+    /* color: #6f0000; */
 }
 
 h1, h2, h3, h4, h5 {
@@ -156,6 +156,8 @@ ul, ol {
 
   .btn {
       font-size: 24px;
+      border-radius: 0rem;
+      padding: 1rem;
   }
 
   @media (min-width: 991px){

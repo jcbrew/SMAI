@@ -36,7 +36,7 @@ class Newsletter extends Component {
 
                 <div className="container">
                     <div className="row py-5">
-                        <div className="col-lg-7">
+                        <div className="col-lg-6">
                             <h3>Isshinryu Karate Kicks</h3>
                             <ol id="columns-2" className="noBullets my-5">
                                 <li className="text-left mb-5"><strong>Cross Kick</strong><br />SHOBA KONATA<br />SHOW ba cone AH tay</li>
@@ -73,7 +73,7 @@ class Newsletter extends Component {
 
                         </div>
 
-                        <div className="col-lg-5 mt-5 mt-lg-0">
+                        <div className="col-lg-5 offset-1 mt-5 mt-lg-0">
                             <h3>COUNTING IN OKINAWAN</h3>
                             <ol id="columns-2" className="noBullets mt-5">
                                 <li className="text-left mb-5"><img src={ichi} /> <br />1. ICHI</li>
