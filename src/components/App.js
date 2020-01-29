@@ -10,6 +10,8 @@ import History from './History';
 import Masters from './Masters';
 import Contact from './Contact';
 import Newsletter from './Newsletter';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 class App extends Component {
 

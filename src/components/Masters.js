@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import Footer from './Footer';
+import ReactSlider from './Slider';
 
 
 class Masters extends Component {
@@ -16,6 +17,7 @@ class Masters extends Component {
 
                 <div className="container py-5">
                     <section>
+
                         <ul className="nav nav-tabs" role="tablist">
                             <li className="nav-item">
                                 <a className="nav-link active" data-toggle="tab" href="#Kyan">Kyan</a>
@@ -48,6 +50,7 @@ class Masters extends Component {
 
                         <div className="tab-content mt-5">
                             <div id="Kyan" className="container tab-pane active mt-3">
+                                <div className="container"><ReactSlider /></div>
                                 <h2>Master Chotoku Kyan</h2>
                                 <p>Chotoku Kyan was born in Shuri, Okinawa in December 1870 and was the first son of Chofu Kyan. Chofu Kyan had been a descendant of the fourth Ryukyuan king, Shoshi. Kyan (also sometimes pronounced Kiyuabu) was born a frail child, but through his martial arts training he developed into a strong adult and his health improved much. He had begun his training in karate-do at the age of five years old.</p>
 

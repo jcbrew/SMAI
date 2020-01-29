@@ -415,8 +415,6 @@ ul, ol {
     background: linear-gradient(102deg,  rgba(249, 228, 207,1) 0%,rgba(168,153,139,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a8998b', endColorstr='#f9e4cf',GradientType=1 );
      */
-
-
 }
 
 .footer {
@@ -517,3 +515,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#200122', end
     .nav-tabs .nav-item {
         margin-bottom: 1px;
     }
+
+    /* Slick Slider */
+
+    .container-slider {
+        padding: 140px;
+        background: #ccc;
+      }
+      
+      .slick-slide img {
+        margin: auto;
+      }
