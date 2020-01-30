@@ -521,8 +521,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#200122', end
     .container-slider {
         padding: 140px;
         background: #ccc;
+        margin-bottom: 50px;
       }
       
       .slick-slide img {
-        margin: auto;
+        width: 98%;
+        margin-left: auto;
+        margin-right: auto;
       }
+
+      .slick-prev:before, .slick-next:before{
+        color:red;
+    }

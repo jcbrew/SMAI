@@ -1,8 +1,15 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import Footer from './Footer';
-import ReactSlider from './Slider';
-
+import SliderKyan from './SliderKyan';
+import SliderMotobu from './SliderMotobu';
+import SliderMiyagi from './SliderMiyagi';
+import SliderShimabuku from './SliderShimabuku';
+import SliderChapman from './SliderChapman';
+import SliderUezu from './SliderUezu';
+import SliderNagle from './SliderNagle';
+import SliderNoxon from './SliderNoxon';
+import SliderAdams from './SliderAdams';
 
 class Masters extends Component {
 
@@ -16,7 +23,9 @@ class Masters extends Component {
                 </div>
 
                 <div className="container py-5">
+
                     <section>
+
 
                         <ul className="nav nav-tabs" role="tablist">
                             <li className="nav-item">
@@ -50,7 +59,8 @@ class Masters extends Component {
 
                         <div className="tab-content mt-5">
                             <div id="Kyan" className="container tab-pane active mt-3">
-                                <div className="container"><ReactSlider /></div>
+                                <div className="container"><SliderKyan /></div>
+
                                 <h2>Master Chotoku Kyan</h2>
                                 <p>Chotoku Kyan was born in Shuri, Okinawa in December 1870 and was the first son of Chofu Kyan. Chofu Kyan had been a descendant of the fourth Ryukyuan king, Shoshi. Kyan (also sometimes pronounced Kiyuabu) was born a frail child, but through his martial arts training he developed into a strong adult and his health improved much. He had begun his training in karate-do at the age of five years old.</p>
 
@@ -68,6 +78,9 @@ class Masters extends Component {
 
                                 <p>Master Chotoku Kyan died Ishikawa City, Okinawa, on 20th September 1945 - he was 76 years old.</p></div>
                             <div id="Motobu" className="container tab-pane fade mt-3">
+
+                                <div className="container"><SliderMotobu /></div>
+
                                 <h2>Master Choki Motobu</h2>
 
                                 <p>
@@ -123,6 +136,9 @@ class Masters extends Component {
 </p>
                             </div>
                             <div id="Miyagi" className="container tab-pane fade mt-3">
+
+                                <div className="container"><SliderMiyagi /></div>
+
                                 <h2>Master Chojun Miyagi</h2>
 
                                 <p>
@@ -179,6 +195,9 @@ class Masters extends Component {
 
                             </div>
                             <div id="Shimabuku" className="container tab-pane fade mt-3">
+
+                                <div className="container"><SliderShimabuku /></div>
+
                                 <h2>Chief Grand Master Shimabuku</h2>
 
                                 <p>
@@ -214,6 +233,9 @@ class Masters extends Component {
 </p>
                             </div>
                             <div id="Chapman" className="container tab-pane fade mt-3">
+
+                                <div className="container"><SliderChapman /></div>
+
                                 <h2>James A. Chapman</h2>
 
                                 <p>
@@ -237,6 +259,9 @@ class Masters extends Component {
 </p>
                             </div>
                             <div id="Uezu" className="container tab-pane fade mt-3">
+
+                                <div className="container"><SliderUezu /></div>
+
                                 <h2>Master Uezu</h2>
 
                                 <p>
@@ -308,6 +333,9 @@ class Masters extends Component {
 </p>
                             </div>
                             <div id="Nagle" className="container tab-pane fade mt-3">
+
+                                <div className="container"><SliderNagle /></div>
+
                                 <h2>Master Nagle</h2>
 
                                 <p>
@@ -431,6 +459,9 @@ class Masters extends Component {
 </p>
                             </div>
                             <div id="Noxon" className="container tab-pane fade mt-3">
+
+                                <div className="container"><SliderNoxon /></div>
+
                                 <h2>Doug Noxon</h2>
 
                                 <p>
@@ -446,6 +477,9 @@ class Masters extends Component {
 </p>
                             </div>
                             <div id="Adams" className="container tab-pane fade mt-3">
+
+                                <div className="container"><SliderAdams /></div>
+
                                 <h2>Hanshi Willie Adams</h2>
                                 <p>
                                     Willie Adams long and colorful history as one of the most prominent and respected martial artists in America began in the late 1950&apos;s and early 1960&apos;s, when he earned his Black Belt in Isshin-Ryu Karate under Masters Don Nagle, James Chapman and Doug Noxon. In addition, Sensei Adams also had the opportunity to study other martial arts, including Shotokan under Master Ozaki, Kung Fu under Masters Lee and Wong, Aikido under Master Yusuda, Judo under Master John Osako, and the arts of Quan Tao and Poke Lon under Master Phil Reeders.
