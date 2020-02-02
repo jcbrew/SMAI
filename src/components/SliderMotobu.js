@@ -3,10 +3,13 @@ import React, { Component } from 'react';
 //import ReactDOM from "react-dom";
 import Slider from "react-slick";
 
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+
 class SliderMotobu extends Component {
     render() {
         const settings = {
-            dots: true,
+            dots: false,
             infinite: true,
             slidesToShow: 3,
             slidesToScroll: 1,
@@ -15,9 +18,7 @@ class SliderMotobu extends Component {
                     breakpoint: 1024,
                     settings: {
                         slidesToShow: 2,
-                        slidesToScroll: 1,
-                        infinite: true,
-                        dots: true
+                        slidesToScroll: 1
                     }
                 },
                 {
@@ -33,9 +34,9 @@ class SliderMotobu extends Component {
             ],
             autoplay: true,
             speed: 1000,
-            autoplaySpeed: 5000,
+            autoplaySpeed: 4000,
             cssEase: "linear",
-            arrows: 1,
+            arrows: 0,
             mobileFirst: true,
         };
         return (

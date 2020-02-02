@@ -39,7 +39,7 @@ const Questions = () => {
             <div className="tab-content">
                 <div id="q1" className="content tab-pane active">
                     <h4><em>What is Karate?</em></h4>
-                    <p>Translated karate means “empty hand”. The oriental art of unarmed self-defense has been around since ancient times. It is the ultimate power of the unity of mind and body. People spend their lives training their spirits as well as their bodies. In addition to being an excellent self-defense system, sport, and work-out, karate provides a heightened appreciation of one’s self and the world. The combination of strength, grace and precision give students self confidence while developing their body, integrity and serenity.</p>
+                    <p>Translated karate means "empty hand". The oriental art of unarmed self-defense has been around since ancient times. It is the ultimate power of the unity of mind and body. People spend their lives training their spirits as well as their bodies. In addition to being an excellent self-defense system, sport, and work-out, karate provides a heightened appreciation of one's self and the world. The combination of strength, grace and precision give students self confidence while developing their body, integrity and serenity.</p>
                 </div>
                 <div id="q2" className="content tab-pane fade">
                     <h4><em>What will I learn in the beginning?</em></h4>
@@ -66,30 +66,30 @@ const Questions = () => {
                     <p>The progression of belts depends on the amount of dedication and discipline each student can give. But the average progression of the belts is as follows:</p>
                     <div className="row">
                         <div className="col-lg-4">
-                            <p><b>White belt</b> – beginner<br />
-                                1 yellow stripe – 1 month<br />
-                                2 yellow stripes – 2 months<br />
-                                3 yellow stripes – 3 months</p>
+                            <p><b>White belt</b> - beginner<br />
+                                1 yellow stripe - 1 month<br />
+                                2 yellow stripes - 2 months<br />
+                                3 yellow stripes - 3 months</p>
                         </div>
 
-                        <div className="col-md-4">
-                            <p><b>Yellow belt</b> – 5 months<br />
-                                1 green stripe – 7 months<br />
-                                2 green stripes – 9 months<br />
-                                3 green stripes – 11 months</p></div>
                         <div className="col-lg-4">
-                            <p><b>Green belt</b> – 1 year<br />
-                                1 brown stripe – 13 months<br />
-                                2 brown stripes – 15 months<br />
-                                3 brown stripes – 17 months</p></div>
+                            <p><b>Yellow belt</b> - 5 months<br />
+                                1 green stripe - 7 months<br />
+                                2 green stripes - 9 months<br />
+                                3 green stripes - 11 months</p></div>
                         <div className="col-lg-4">
-                            <p><b>Brown belt</b> – 1 ½ years<br />
-                                1 red stripe – 18 months<br />
-                                2 red stripes – 2 years<br />
-                                3 red stripes – 2 ½ years</p></div>
+                            <p><b>Green belt</b> - 1 year<br />
+                                1 brown stripe - 13 months<br />
+                                2 brown stripes - 15 months<br />
+                                3 brown stripes - 17 months</p></div>
                         <div className="col-lg-4">
-                            <p><b>Black belt candidate</b> – 3 years<br />
-                                Black Belt – 3 ½ - 4 years</p></div>
+                            <p><b>Brown belt</b> - 1 1/2 years<br />
+                                1 red stripe - 18 months<br />
+                                2 red stripes - 2 years<br />
+                                3 red stripes - 2 1/2 years</p></div>
+                        <div className="col-lg-4">
+                            <p><b>Black belt candidate</b> - 3 years<br />
+                                Black Belt - 3 1/2 - 4 years</p></div>
                     </div>
                 </div>
                 <div id="q8" className="content tab-pane fade">

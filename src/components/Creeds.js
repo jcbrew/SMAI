@@ -20,10 +20,10 @@ const Creeds = () => {
                 </div>
                 <div className="col-lg-5 creedCard">
                     <h3>ISSHINRYU CODE</h3>
-                    <p>A person’s heart is the same as heaven and earth.</p>
+                    <p>A person's heart is the same as heaven and earth.</p>
                     <p>The blood circulating is similar to the moon and sun.</p>
                     <p>A manner of drinking and spitting is either hard or soft.</p>
-                    <p>A person’s unbalance is the same as a weight.</p>
+                    <p>A person's unbalance is the same as a weight.</p>
                     <p>The body should be able to change direction at any time.</p>
                     <p>The time to strike is when the opportunity presents itself.</p>
                     <p>The eye must see all sides.</p>

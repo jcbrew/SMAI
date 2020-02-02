@@ -46,7 +46,7 @@ class Children extends Component {
                         </div>
                         <div className='row'>
                             <div className='col-12'>
-                                <p>Look at it this way, your child’s first and biggest challenge comes not from “fighting for his rights on the street,” or “beating up the neighborhood bully.” Instead, it comes from battling more sinister forces, your child’s own fears and self doubts:</p>
+                                <p>Look at it this way, your child's first and biggest challenge comes not from "fighting for his rights on the street," or "beating up the neighborhood bully." Instead, it comes from battling more sinister forces, your child's own fears and self doubts:</p>
 
                             </div></div>
                         <div className='row my-5'>
@@ -55,18 +55,18 @@ class Children extends Component {
                             </div>
                             <div className='col-12 col-md-7'>
                                 <ul>
-                                    <li>"I’m not as smart as John."</li>
-                                    <li>"I don’t get what my teacher is saying."</li>
+                                    <li>"I'm not as smart as John."</li>
+                                    <li>"I don't get what my teacher is saying."</li>
                                     <li>"I wish I was as [pretty, tall] as Sally."</li>
                                     <li>"Why does Jim keep calling me a bad name?"</li>
-                                    <li>"Why can’t I be as popular as Lauryn?"</li>
+                                    <li>"Why can't I be as popular as Lauryn?"</li>
                                 </ul>
                             </div>
                         </div>
                         <div className='row'>
                             <div className='col-12'>
 
-                                <p>The question is, how do you get your child to fight these demons? You know the problem; your child has a tough time even telling you she’s haunted by them - never mind how she might conquer them. The good news is I have a proven solution: a program that has already worked for over 3,000 local area children. A series kidsof lessons your child can learn easier than you think. I call it, “Kids With Kick.” Let me tell you it’s secret.</p>
+                                <p>The question is, how do you get your child to fight these demons? You know the problem; your child has a tough time even telling you she's haunted by them - never mind how she might conquer them. The good news is I have a proven solution: a program that has already worked for over 3,000 local area children. A series kidsof lessons your child can learn easier than you think. I call it, "Kids With Kick." Let me tell you it's secret.</p>
 
                                 <p>To repeat, martial arts are less about your child learning to fight others, and more about fighting... himself: His innermost fears. Conquer them, and your child unleashes within himself a powerful, unstoppable force; a force that gives him the strength to kick down the doors of his own self doubts; a force that opens your child to the exalting power of values.</p>
 

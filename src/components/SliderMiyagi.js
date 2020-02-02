@@ -6,7 +6,7 @@ import Slider from "react-slick";
 class SliderMiyagi extends Component {
     render() {
         const settings = {
-            dots: true,
+            dots: false,
             infinite: true,
             slidesToShow: 3,
             slidesToScroll: 1,
@@ -15,9 +15,7 @@ class SliderMiyagi extends Component {
                     breakpoint: 1024,
                     settings: {
                         slidesToShow: 2,
-                        slidesToScroll: 1,
-                        infinite: true,
-                        dots: true
+                        slidesToScroll: 1
                     }
                 },
                 {
@@ -33,9 +31,9 @@ class SliderMiyagi extends Component {
             ],
             autoplay: true,
             speed: 1000,
-            autoplaySpeed: 5000,
+            autoplaySpeed: 4000,
             cssEase: "linear",
-            arrows: 1,
+            arrows: 0,
             mobileFirst: true,
         };
         return (

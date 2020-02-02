@@ -265,43 +265,43 @@ class Masters extends Component {
                                 <h2>Master Uezu</h2>
 
                                 <p>
-                                    Angi Uezu was born January 3, 1935, in Chiyaranka City on the island of Saipan. His father was 6th generation Okinawan of Sumarai lineage from Shuri, his ancestors served under the King of Okinawa in the city of Gushikawa. In the 1930’s work on Okinawa was hard to find, so as a young man his father traveled to Saipan to find work in the sugar cane fields and start a better life. While in Saipan his father found his first wife and the mother of Angi Uezu who was the third of four brothers.
+                                    Angi Uezu was born January 3, 1935, in Chiyaranka City on the island of Saipan. His father was 6th generation Okinawan of Sumarai lineage from Shuri, his ancestors served under the King of Okinawa in the city of Gushikawa. In the 1930's work on Okinawa was hard to find, so as a young man his father traveled to Saipan to find work in the sugar cane fields and start a better life. While in Saipan his father found his first wife and the mother of Angi Uezu who was the third of four brothers.
 </p>
 
                                 <p>
-                                    Angi’s first involvement with martial arts came in junior high school where the schools curriculum included Gojo-ryu. He didn’t like Karate because he was very much against fighting of any sort. He thought why train in Karate and get beat-up everyday learning to defend yourself when the likelihood of getting in a fight was so remote.
+                                    Angi's first involvement with martial arts came in junior high school where the schools curriculum included Gojo-ryu. He didn't like Karate because he was very much against fighting of any sort. He thought why train in Karate and get beat-up everyday learning to defend yourself when the likelihood of getting in a fight was so remote.
 </p>
 
                                 <p>
-                                    In 1956, he met Yukiko Shimabuku, the third daughter of Master Tatsuo Shimabuku, the well known karate master. After a short courtship and Yukiko’s prodding to get married Master Uezu went to the Kyan dojo to ask Master Shimabuku for his daughter in marriage. Master Uezu tells the story of his first meeting with the Master, &quot;As I approached Master Shimabuku’s house I could hear some very loud pounding. I walked around the corner up to the fence gate and saw Master Shimabuku punching the makiwara, he wasn’t smiling and was very intense, I thought he was getting ready for me.&quot;
+                                    In 1956, he met Yukiko Shimabuku, the third daughter of Master Tatsuo Shimabuku, the well known karate master. After a short courtship and Yukiko's prodding to get married Master Uezu went to the Kyan dojo to ask Master Shimabuku for his daughter in marriage. Master Uezu tells the story of his first meeting with the Master, &quot;As I approached Master Shimabuku's house I could hear some very loud pounding. I walked around the corner up to the fence gate and saw Master Shimabuku punching the makiwara, he wasn't smiling and was very intense, I thought he was getting ready for me.&quot;
 </p>
 
                                 <p>
-                                    He said, &quot;I stopped at the gate and saw the master hitting the makiwara, I turned and ran, I was very scared, I thought he was mad at me and was going to hurt me.&quot; Later his mother took him over to Master Shimabuku’s and found out that the Master was pleased to have me as his son-in-law and agreed to the marriage. In 1957 after Master Uezu and Yukiko married he moved into the Master’s house, but he didn’t start karate, instead he was working many hours at one of the military bases to make money for his new family. Master Uezu recalls that Master Shimabuku was always after him to start training. Master Uezu said he always told Master Shimabuku he didn’t like karate and stayed busy working late hours at his job so he’d have a excuse not to train.
+                                    He said, &quot;I stopped at the gate and saw the master hitting the makiwara, I turned and ran, I was very scared, I thought he was mad at me and was going to hurt me.&quot; Later his mother took him over to Master Shimabuku's and found out that the Master was pleased to have me as his son-in-law and agreed to the marriage. In 1957 after Master Uezu and Yukiko married he moved into the Master's house, but he didn't start karate, instead he was working many hours at one of the military bases to make money for his new family. Master Uezu recalls that Master Shimabuku was always after him to start training. Master Uezu said he always told Master Shimabuku he didn't like karate and stayed busy working late hours at his job so he'd have a excuse not to train.
 </p>
 
                                 <p>
-                                    It was around this time a good friend of his, Taba Seichi, who was training, asked him to teach him the Bo kata, Tokomine no kun. Master Uezu told his friend that he didn’t know the kata because he wasn’t training with Master Shimabuku. His friend Taba said him &quot;you live with Master Shimabuku and don’t train in karate? &quot;Why don’t you train in karate? Master Shimabuku is your father-in-law you must respect him. You have to help him teach in the dojo&quot;.
+                                    It was around this time a good friend of his, Taba Seichi, who was training, asked him to teach him the Bo kata, Tokomine no kun. Master Uezu told his friend that he didn't know the kata because he wasn't training with Master Shimabuku. His friend Taba said him &quot;you live with Master Shimabuku and don't train in karate? &quot;Why don't you train in karate? Master Shimabuku is your father-in-law you must respect him. You have to help him teach in the dojo&quot;.
 </p>
 
                                 <p>
-                                    That evening Master Uezu thought about what his friend had said and realized he was right. Master Shimabuku had given him his daughter, a house and helped him in many ways, it was his duty to respect and help the Master. The next day Master Uezu and Yukiko’s older sisters husband started training. Master Uezu said he found that he really enjoyed karate and the rigorous training and easily remembered all of the basic exercises.
+                                    That evening Master Uezu thought about what his friend had said and realized he was right. Master Shimabuku had given him his daughter, a house and helped him in many ways, it was his duty to respect and help the Master. The next day Master Uezu and Yukiko's older sisters husband started training. Master Uezu said he found that he really enjoyed karate and the rigorous training and easily remembered all of the basic exercises.
 </p>
 
                                 <p>
-                                    Due to his loyalty and dedication he soon became one of Master Shimabuku’s top students. During the early sixties as his skills improved he became one of the top competitors on Okinawa winning many competitions and became highly regarded as an outstanding martial artist on Okinawa. He was an excellent counter fighter with an array of techniques that he worked until he considered them perfect for all types fighting.
+                                    Due to his loyalty and dedication he soon became one of Master Shimabuku's top students. During the early sixties as his skills improved he became one of the top competitors on Okinawa winning many competitions and became highly regarded as an outstanding martial artist on Okinawa. He was an excellent counter fighter with an array of techniques that he worked until he considered them perfect for all types fighting.
 </p>
 
                                 <p>
-                                    Later, Master Shimabuku sent him to teach at many of his outlying military dojos because of Master Uezu’s English skills and teaching ability. Master Uezu taught many Marines at Camps Hansen, Courtney and Foster. In 1967, as a Yon-Dan, he took over as Master Shimabuku’s representative to go to the United States and conduct training and seminars, a yearly tradition he has kept for the past 30 years. The only time he interrupted his schedule was after his stroke in April 1994. After his recovery he resumed his seminar circuit and having people come to Okinawa to train in 1996.
+                                    Later, Master Shimabuku sent him to teach at many of his outlying military dojos because of Master Uezu's English skills and teaching ability. Master Uezu taught many Marines at Camps Hansen, Courtney and Foster. In 1967, as a Yon-Dan, he took over as Master Shimabuku's representative to go to the United States and conduct training and seminars, a yearly tradition he has kept for the past 30 years. The only time he interrupted his schedule was after his stroke in April 1994. After his recovery he resumed his seminar circuit and having people come to Okinawa to train in 1996.
 </p>
 
                                 <p>
-                                    In May 1975, Master Shimabuku passed away at the age of 68 starting off a chain of events that almost destroyed Isshin-Ryu on Okinawa. This along with other internal conflicts began the downfall of the largest style of karate on Okinawa at the time. Many of Isshin-Ryu’s top people went to other styles because of internal disagreements and beliefs leaving only seven senior students to include Master Uezu to carry on. This would begin the hardest test of his loyalty and dedication to his Master and Isshin-Ryu for the next 21 years.
+                                    In May 1975, Master Shimabuku passed away at the age of 68 starting off a chain of events that almost destroyed Isshin-Ryu on Okinawa. This along with other internal conflicts began the downfall of the largest style of karate on Okinawa at the time. Many of Isshin-Ryu's top people went to other styles because of internal disagreements and beliefs leaving only seven senior students to include Master Uezu to carry on. This would begin the hardest test of his loyalty and dedication to his Master and Isshin-Ryu for the next 21 years.
 </p>
 
                                 <p>
-                                    He recalled a time after the Master’s death when he was approached by three former friends and students of Isshin-Ryu who came to his house to get him to switch to Shorin-Ryu. The three begged him to join them, to which Master Uezu again replied &quot;I have a duty to Master Shimabuku and must remain loyal to my family&quot;. Master Uezu realized he had many people around the world that needed him to keep Isshin-Ryu alive. He knew that he must teach good Isshin-Ryu and respect Master Shimabuku because it was his duty. Master Uezu took to this challenge by going to the states for extended periods to teach and spread the word about Isshin-Ryu wherever and whenever he was asked.
+                                    He recalled a time after the Master's death when he was approached by three former friends and students of Isshin-Ryu who came to his house to get him to switch to Shorin-Ryu. The three begged him to join them, to which Master Uezu again replied &quot;I have a duty to Master Shimabuku and must remain loyal to my family&quot;. Master Uezu realized he had many people around the world that needed him to keep Isshin-Ryu alive. He knew that he must teach good Isshin-Ryu and respect Master Shimabuku because it was his duty. Master Uezu took to this challenge by going to the states for extended periods to teach and spread the word about Isshin-Ryu wherever and whenever he was asked.
 </p>
 
                                 <p>
@@ -309,7 +309,7 @@ class Masters extends Component {
 </p>
 
                                 <p>
-                                    Master Uezu follows his Master’s beliefs in that one must be a gentleman or lady at all times and never worry about the negative influences that can harm oneself. Through all of this Master Uezu never struck out at his detractors, to do so would have taken a way from everything he believed in. If others didn’t like what he had to offer that was okay, he respected them for their beliefs and willingness to follow their chosen path. He truly believes that you must remain focused and have a big heart to accept others for what they believe.
+                                    Master Uezu follows his Master's beliefs in that one must be a gentleman or lady at all times and never worry about the negative influences that can harm oneself. Through all of this Master Uezu never struck out at his detractors, to do so would have taken a way from everything he believed in. If others didn't like what he had to offer that was okay, he respected them for their beliefs and willingness to follow their chosen path. He truly believes that you must remain focused and have a big heart to accept others for what they believe.
 </p>
 
                                 <p>
@@ -317,7 +317,7 @@ class Masters extends Component {
 </p>
 
                                 <p>
-                                    Master Uezu’s persistence and dedication to his master paid the ultimate dividend by becoming the only Isshin-Ryu association now recognized by the Prefectural government and asked by it to perform at all major karate demonstrations. The crowning achievement of his efforts to promote Isshin-Ryu came when his association was asked to perform at 1995 World Okinawan Karate Championships here on Okinawa.
+                                    Master Uezu's persistence and dedication to his master paid the ultimate dividend by becoming the only Isshin-Ryu association now recognized by the Prefectural government and asked by it to perform at all major karate demonstrations. The crowning achievement of his efforts to promote Isshin-Ryu came when his association was asked to perform at 1995 World Okinawan Karate Championships here on Okinawa.
 </p>
 
                                 <p>
@@ -325,11 +325,11 @@ class Masters extends Component {
 </p>
 
                                 <p>
-                                    Today he resides quietly in Gushikawa City with his wife Yukiko and his son. Even though he’s retired he isn’t far away from the dojo. Master Uezu is a frequent visitor at Sensei Uechi’s dojo to watch, however he with his enthusiasm and drive still strong he usually ends up teaching the class. Master Uezu says &quot;My wife won’t let me teach at home and is always telling me to rest. I am a karate man and this is my life I can’t rest, I have a duty to Master Shimabuku to spread his art of Isshin-Ryu&quot;.
+                                    Today he resides quietly in Gushikawa City with his wife Yukiko and his son. Even though he's retired he isn't far away from the dojo. Master Uezu is a frequent visitor at Sensei Uechi's dojo to watch, however he with his enthusiasm and drive still strong he usually ends up teaching the class. Master Uezu says &quot;My wife won't let me teach at home and is always telling me to rest. I am a karate man and this is my life I can't rest, I have a duty to Master Shimabuku to spread his art of Isshin-Ryu&quot;.
 </p>
 
                                 <p>
-                                    Being the ultimate Bushido man he still practices karate everyday in his dojo, (while his wife is taking a nap), he walks 5 miles, and tells anyone who will listen the benefits of karate. This man will never rest, &quot;One day I’ll die and there will be plenty of time to rest, right now I’m too busy&quot;.
+                                    Being the ultimate Bushido man he still practices karate everyday in his dojo, (while his wife is taking a nap), he walks 5 miles, and tells anyone who will listen the benefits of karate. This man will never rest, &quot;One day I'll die and there will be plenty of time to rest, right now I'm too busy&quot;.
 </p>
                             </div>
                             <div id="Nagle" className="container tab-pane fade mt-3">
