@@ -9,9 +9,9 @@ const ContactUs = () => {
                 <div className="col-md-8">
                     <h3>Let us show you how we can help you train your mind and body.</h3>
                 </div>
-                <div className="col-md-4 mt-3 mt-md-0">
+                <div className="col-md-4 mt-3 mt-md-0 text-center text-md-right">
 
-                    <button className="btn btn-outline-light float-right">Learn More About Us</button>
+                    <button className="btn btn-outline-light">Learn More About Us</button>
 
                 </div>
 
