@@ -6,7 +6,7 @@ import Slider from "react-slick";
 class SliderNoxon extends Component {
     render() {
         const settings = {
-            dots: false,
+            dots: true,
             infinite: false,
             slidesToShow: 3,
             slidesToScroll: 1,
@@ -33,7 +33,7 @@ class SliderNoxon extends Component {
             speed: 1000,
             autoplaySpeed: 4000,
             cssEase: "linear",
-            arrows: 0,
+            arrows: 1,
             mobileFirst: true,
         };
         return (

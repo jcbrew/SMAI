@@ -31,7 +31,7 @@ class Calendar extends Component {
 
                 <section>
                     <div className="row">
-                        <div className="col-12">{this.props.day}</div>
+                        <div className="col-12"><h4>{this.props.day}</h4></div>
                     </div>
                     <div className="row">
                         <div className="col-sm-7 font-weight-bold">{this.props.time1_title}</div>
@@ -71,6 +71,7 @@ class Calendar extends Component {
 
 const mapStateToProps = (state) => {
     return {
+        day: state.calendarReducer.day,
         time1: state.calendarReducer.time1,
         time1_title: state.calendarReducer.time1_title,
         time2: state.calendarReducer.time2,

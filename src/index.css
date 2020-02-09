@@ -77,12 +77,12 @@ b, strong {
 
 h1, h2, h3, h4, h5 {
     font-family: 'RobotoMedium';
-    color: #6f0000;
+    color: #9e0000;
 }
 
 h1, h2, h3 {
     text-transform: uppercase;
-    color: #6f0000;
+    color: #9e0000;
 }
 
 .content {
@@ -509,7 +509,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#200122', end
     }
 
     .nav-tabs {
-        border-bottom: 2px solid rgb(183,76,20);
+        border-bottom: 2px solid rgb(158,0,0);
     }
 
     .nav-tabs .nav-item {
@@ -517,6 +517,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#200122', end
     }
 
     /* Slick Slider */
+
+    .slick-next:before, .slick-prev:before {
+        font-size: 24px;
+    }
 
     .container-slider {
         padding: 140px;
@@ -531,7 +535,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#200122', end
       }
 
       .slick-prev:before, .slick-next:before{
-        color:red;
+        color:#9e0000;
     }
 
 @media (min-width: 576px) {
@@ -553,3 +557,22 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#200122', end
 .container {
     max-width: 1140px;
 }}
+
+.btn.btn-dark.active.focus,
+.btn.btn-dark.active:focus,
+.btn.btn-dark.active:hover,
+.btn.btn-dark:active.focus,
+.btn.btn-dark:active:focus,
+.btn.btn-dark:active:hover,
+.btn.btn-dark.focus,
+.btn.btn-dark:focus,
+.btn.btn-dark:hover,
+.btn.btn-dark.focus,
+.btn.btn-dark:focus,
+.btn.btn-dark:hover {
+  color: #fff;
+  background-color: #9e0000;;
+  border-color: #9e0000;
+  outline: none;
+  box-shadow: none;
+}

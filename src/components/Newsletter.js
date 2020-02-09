@@ -91,9 +91,9 @@ class Newsletter extends Component {
                                 <li className="text-left mb-5"><img src={ju} /><img src={san} /> <br />13. JU-SAN</li>
                                 <li className="text-left mb-5"><img src={ju} /><img src={shi} /> <br />14. JU-SHI (etc.)</li>
                                 <li className="text-left mb-5"><img src={ni} /><img src={ju} /> <br />20. NI-JU</li>
-                                <li className="text-left mb-5"><img src={ni} />&nbsp;<img src={ju} />&nbsp;<img src={ichi} /> <br />21. NI-JU ICHI</li>
-                                <li className="text-left mb-5"><img src={ni} />&nbsp;<img src={ju} />&nbsp;<img src={ni} /> <br />22.NI-JU NI</li>
-                                <li className="text-left mb-5"><img src={ni} />&nbsp;<img src={ju} />&nbsp;<img src={san} /> <br />23. NI-JU SAN (etc.)</li>
+                                <li className="text-left mb-5 text-nowrap"><img src={ni} /> <img src={ju} /> <img src={ichi} /> <br />21. NI-JU ICHI</li>
+                                <li className="text-left mb-5 text-nowrap"><img src={ni} /> <img src={ju} /> <img src={ni} /> <br />22.NI-JU NI</li>
+                                <li className="text-left mb-5 text-nowrap"><img src={ni} /> <img src={ju} /> <img src={san} /> <br />23. NI-JU SAN (etc.)</li>
                                 <li className="text-left mb-5"><img src={san} /><img src={ju} /> <br />30. SAN-JU</li>
                             </ol>
                         </div>

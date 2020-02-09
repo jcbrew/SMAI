@@ -1,7 +1,31 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import logo2 from '/logo-tainted.jpg';
 
+{/* <ul className="navbar-nav mr-auto">
+    <li className="nav-item">
+        <Link className="nav-link" to='/'>Home</Link>
+    </li>
+    <li className="nav-item">
+        <Link className="nav-link" to='/adult'>Adult</Link>
+    </li>
+    <li className="nav-item">
+        <Link className="nav-link" to='/children'>Children</Link>
+    </li>
+    <li className="nav-item">
+        <Link className="nav-link" to='/history'>History</Link>
+    </li>
+    <li className="nav-item">
+        <Link className="nav-link" to='/masters'>Masters</Link>
+    </li>
+    <li className="nav-item">
+        <Link className="nav-link" to='/contact'>Contact Us</Link>
+    </li>
+    <li className="nav-item">
+        <Link className="nav-link" to='/newsletter'>Newsletter</Link>
+    </li>
+</ul> */}
 
 const Footer = () => {
     return (
@@ -9,18 +33,18 @@ const Footer = () => {
 
             <div className="row pt-5">
                 <div className="col-md-3">
-                    <img src={logo2} className='logo2' alt="Logo" />
+                    <Link to='/'><img src={logo2} className='logo2' alt="Logo" /></Link>
                 </div>
                 <div className="col-md-3 ">
-                    <p>Home</p>
-                    <p>Adult</p>
-                    <p>Children</p>
+                    <p><Link to='/'>Home</Link></p>
+                    <p><Link to='/adult'>Adult</Link></p>
+                    <p><Link to='/children'>Children</Link></p>
                 </div>
 
                 <div className="col-md-3 ">
-                    <p>History</p>
-                    <p>Masters</p>
-                    <p>Newsletter</p>
+                    <p><Link to='/history'>History</Link></p>
+                    <p><Link to='/masters'>Masters</Link></p>
+                    <p><Link to='/newsletter'>Newsletter</Link></p>
                 </div>
                 <div className="col-md-3 footer-contact">
                     <p>Contact</p>

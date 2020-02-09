@@ -9,7 +9,7 @@ import "slick-carousel/slick/slick-theme.css";
 class SliderKyan extends Component {
     render() {
         const settings = {
-            dots: false,
+            dots: true,
             infinite: true,
             slidesToShow: 3,
             slidesToScroll: 1,
@@ -36,7 +36,7 @@ class SliderKyan extends Component {
             speed: 1000,
             autoplaySpeed: 4000,
             cssEase: "linear",
-            arrows: 0,
+            arrows: 1,
             mobileFirst: true,
         };
         return (

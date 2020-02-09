@@ -25,7 +25,7 @@ const Header = () => {
         // </div>
 
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-            <img src={logo} className='logo' alt="Logo" />
+            <Link to='/'><img src={logo} className='logo' alt="Logo" /></Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
                 <span className="navbar-toggler-icon"></span>
             </button>
