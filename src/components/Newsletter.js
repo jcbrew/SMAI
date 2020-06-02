@@ -73,7 +73,7 @@ class Newsletter extends Component {
 
                         </div>
 
-                        <div className="col-lg-5 offset-1 mt-5 mt-lg-0">
+                        <div className="col-lg-5 offset-0 offset-lg-1 mt-5 mt-lg-0">
                             <h3>COUNTING IN OKINAWAN</h3>
                             <ol id="columns-2" className="noBullets mt-5">
                                 <li className="text-left mb-5"><img src={ichi} /> <br />1. ICHI</li>
