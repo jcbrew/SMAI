@@ -1,2 +1,2 @@
-# react-app-template
-Southfield Martial Arts Website
+# Southfield Martial Arts Website
+Still need to receive updated photos from Master Adams.
