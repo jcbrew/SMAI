@@ -23,27 +23,27 @@ class Intro extends Component {
                         </div>
                     </div>
                     <div className="container">
-                        <div className="row flex align-items-center my-5">
-                            <div className="col-sm-11 col-sm-offset-1 text-center animation animation-9">with sweat and tears you enter the spirit of martial arts</div>
+                        <div className="row flex align-items-center">
+                            <div className="col-sm-11 col-sm-offset-1 text-center animation animation-9 my-3">with sweat and tears you enter the spirit of martial arts</div>
                         </div>
-                        <div className="row flex align-items-center my-5">
-                            <div className="col-sm-12 text-center animation animation-1">tell me, I'll forget. show me, I may remember. Involve me, I'll understand</div>
+                        <div className="row flex align-items-center">
+                            <div className="col-sm-12 text-center animation animation-1 my-3">tell me, I'll forget. show me, I may remember. Involve me, I'll understand</div>
                         </div>
-                        <div className="row flex align-items-center my-5">
-                            <div className="col-sm-4 offset-sm-1 text-center animation animation-2">may practice always strengthen your mind, body & spirit</div>
-                            <div className="col-sm-5 offset-sm-1 text-center animation animation-3">a black belt is a white belt that never quit</div>
+                        <div className="row flex align-items-center">
+                            <div className="col-sm-4 offset-sm-1 text-center animation animation-2 my-3">may practice always strengthen your mind, body & spirit</div>
+                            <div className="col-sm-5 offset-sm-1 text-center animation animation-3 my-3">a black belt is a white belt that never quit</div>
                         </div>
-                        <div className="row flex align-items-center my-5">
-                            <div className="col-sm-4 text-center animation animation-4">to fall 7 times and to rise 8, that is when life begins</div>
+                        <div className="row flex align-items-center">
+                            <div className="col-sm-4 text-center animation animation-4 my-3">to fall 7 times and to rise 8, that is when life begins</div>
                             {/* <div className="col-sm-3 text-center fade-in"><img src="tiger-sm.jpg" /></div> */}
-                            <div className="col-sm-5 text-center animation animation-5">a good day is not a day without chaos, but rather a day in which we remain calmwithin the chaos</div>
+                            <div className="col-sm-5 text-center animation animation-5 my-3">a good day is not a day without chaos, but rather a day in which we remain calm within the chaos</div>
                         </div>
-                        <div className="row flex align-items-center my-5">
-                            <div className="col-sm-6 text-center animation animation-6">move like a cat...strike like a tiger</div>
-                            <div className="col-sm-6 text-center animation animation-7">we will give out before we give in</div>
+                        <div className="row flex align-items-center">
+                            <div className="col-sm-6 text-center animation animation-6 my-3">move like a cat...strike like a tiger</div>
+                            <div className="col-sm-6 text-center animation animation-7 my-3">we will give out before we give in</div>
                         </div>
-                        <div className="row flex align-items-center my-5">
-                            <div className="col-sm-12 text-center animation animation-8">a person who attains mastery of an art reveals it in their every action</div>
+                        <div className="row flex align-items-center">
+                            <div className="col-sm-12 text-center animation animation-8 my-3">a person who attains mastery of an art reveals it in their every action</div>
                         </div>
                         <div className="row flex align-items-center mt-5">
                             <div className="col-sm-12 text-center mt-sm-5"><AudioPlayerIntro /></div>

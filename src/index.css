@@ -37,7 +37,7 @@ body {
 
 @media (max-width: 991px){
     body {
-        font-size: 1.5rem;
+        font-size: 1.25rem;
     }
 }
 
@@ -399,7 +399,7 @@ ul, ol {
 } */
 
 .creedCard {
-    background-color: aliceblue;
+    background-color: #d2eaf4;
     padding: 1.5rem; 
 }
 
