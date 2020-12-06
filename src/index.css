@@ -189,7 +189,7 @@ ul, ol {
 }
 
 .animation {
-    font-family: RobotoBold;
+    font-family: 'RobotoBold';
     font-size: 1.25rem;
     font-weight: 700;
     position: relative;
@@ -213,12 +213,13 @@ ul, ol {
     animation-delay: 1s;
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
+    font-family: 'RobotoMedium';
 }
 
 
 .animation.animation-2 {
     font-size: 1.5rem;
-    font-weight: 700;
+    font-family: 'RobotoLight';
     -webkit-animation-delay: 3s;
     -webkit-animation-duration: 4s;
     animation-duration: 4s;
@@ -238,7 +239,7 @@ ul, ol {
 
 .animation.animation-4 {
     font-size: 1.15rem;
-    font-weight: 700;
+    font-family: 'RobotoLight';
     -webkit-animation-delay: 10s;
     -webkit-animation-duration: 4s;
     animation-delay: 10s;
@@ -248,7 +249,6 @@ ul, ol {
 
 .animation.animation-5 {
     font-size: 1.2rem;
-    font-weight: 900;
     -webkit-animation-delay: 14s;
     -webkit-animation-duration: 4s;
     animation-delay: 14s;
@@ -257,6 +257,7 @@ ul, ol {
 
 
 .animation.animation-6 {
+    font-family: 'RobotoMedium';
     -webkit-animation-delay: 18s;
     -webkit-animation-duration: 4s;
     animation-duration: 4s;
@@ -281,8 +282,8 @@ ul, ol {
 
 
 .animation.animation-9 {
+    font-family: 'RobotoLight';
     font-size: 1.5rem;
-    font-weight: 900;
     -webkit-animation-delay: 28s;
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
