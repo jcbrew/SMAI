@@ -161,7 +161,7 @@ ul, ol {
   }
   @media (max-width: 991px){
     .btn {
-        font-size: 1.5rem;
+        font-size: 1.25rem;
     }
 } 
 
@@ -470,7 +470,7 @@ background-color: #fdf8eb;
 
 @media (max-width: 991px){
     .footer {
-        font-size: 1.5rem;
+        font-size: 1.25rem;
         line-height: 2rem;
     }
 }

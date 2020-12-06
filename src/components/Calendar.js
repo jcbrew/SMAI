@@ -19,13 +19,13 @@ class Calendar extends Component {
                 </section>
 
                 <section className='masterButtons'>
-                    <button onClick={this.props.onSunday} className='btn btn-dark mr-2 my-2'>Sunday</button>
-                    <button onClick={this.props.onMonday} className='btn btn-dark mr-2 my-2'>Monday</button>
-                    <button onClick={this.props.onTuesday} className='btn btn-dark mr-2 my-2'>Tuesday</button>
-                    <button onClick={this.props.onWednesday} className='btn btn-dark mr-2 my-2'>Wednesday</button>
-                    <button onClick={this.props.onThursday} className='btn btn-dark mr-2 my-2'>Thursday</button>
-                    <button onClick={this.props.onFriday} className='btn btn-dark mr-2 my-2'>Friday</button>
-                    <button onClick={this.props.onSaturday} className='btn btn-dark mr-2 my-2'>Saturday</button>
+                    <button onClick={this.props.onSunday} className='btn btn-dark mr-2 my-1 px-4'>Sunday</button>
+                    <button onClick={this.props.onMonday} className='btn btn-dark mr-2 my-1 px-4'>Monday</button>
+                    <button onClick={this.props.onTuesday} className='btn btn-dark mr-2 my-1 px-4'>Tuesday</button>
+                    <button onClick={this.props.onWednesday} className='btn btn-dark mr-2 my-1 px-4'>Wednesday</button>
+                    <button onClick={this.props.onThursday} className='btn btn-dark mr-2 my-1 px-4'>Thursday</button>
+                    <button onClick={this.props.onFriday} className='btn btn-dark mr-2 my-1 px-4'>Friday</button>
+                    <button onClick={this.props.onSaturday} className='btn btn-dark mr-2 my-1 px-4'>Saturday</button>
                 </section>
 
 
