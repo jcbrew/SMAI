@@ -111,7 +111,7 @@ ul, ol {
 
   .bannerWrapper {
     display:flex;
-    background-image: url('/karate_banner01.jpg');
+    background-image: url('/karate_banner02.jpg');
     background-position: top center;
     background-size: cover;
     min-height: 450px;
@@ -123,7 +123,7 @@ ul, ol {
   }
 
   .bannerWrapper.children  {
-     background-image: url('/karate_banner02.jpg');
+     background-image: url('/karate_banner04.jpg');
    }
 
    .bannerWrapper.history  {
