@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import Header from './Header';
 import AudioPlayerIntro from './AudioPlayerIntro';
 
+import tiger from '/assets/tiger-large.jpg';
+
 
 import Calendar from './Calendar';
 import Footer from './Footer';
@@ -15,36 +17,42 @@ class Intro extends Component {
             <div className='pageWrapper'>
                 <Header />
                 <div className='container-fluid animatedText'>
-                    <div className="row flex align-items-center my-1">
-                        <div className="col-sm-11 col-sm-offset-1 text-center animation animation-9">with sweat and tears you enter the spirit of martial arts</div>
+                    <div className="container">
+                        <div className="text-center fade-in-tiger">
+                            <img src={tiger} />
+                        </div>
                     </div>
-                    <div className="row flex align-items-center my-3">
-                        <div className="col-sm-12 text-center animation animation-1">tell me, I'll forget. show me, I may remember. Involve me, I'll understand</div>
-                    </div>
-                    <div className="row flex align-items-center my-3">
-                        <div className="col-sm-4 offset-sm-1 text-center animation animation-2">may practice always strengthen your mind, body & spirit</div>
-                        <div className="col-sm-5 offset-sm-1 text-center animation animation-3">a black belt is a white belt that never quit</div>
-                    </div>
-                    <div className="row flex align-items-center my-3">
-                        <div className="col-sm-4 text-center animation animation-4">to fall 7 times and to rise 8, that is when life begins</div>
-                        <div className="col-sm-3 text-center fade-in"><img src="tiger-sm.jpg" /></div>
-                        <div className="col-sm-5 text-center animation animation-5">a good day is not a day without chaos, but rather a day in which we remain calmwithin the chaos</div>
-                    </div>
-                    <div className="row flex align-items-center my-3">
-                        <div className="col-sm-6 text-center animation animation-6">move like a cat...strike like a tiger</div>
-                        <div className="col-sm-6 text-center animation animation-7">we will give out before we give in</div>
-                    </div>
-                    <div className="row flex align-items-center my-3">
-                        <div className="col-sm-12 text-center animation animation-8">a person who attains mastery of an art reveals it in their every action</div>
-                    </div>
-                    <div className="row flex align-items-center mt-5">
-                        <div className="col-sm-12 text-center"><AudioPlayerIntro /></div>
-                    </div>
+                    <div className="container">
+                        <div className="row flex align-items-center my-5">
+                            <div className="col-sm-11 col-sm-offset-1 text-center animation animation-9">with sweat and tears you enter the spirit of martial arts</div>
+                        </div>
+                        <div className="row flex align-items-center my-5">
+                            <div className="col-sm-12 text-center animation animation-1">tell me, I'll forget. show me, I may remember. Involve me, I'll understand</div>
+                        </div>
+                        <div className="row flex align-items-center my-5">
+                            <div className="col-sm-4 offset-sm-1 text-center animation animation-2">may practice always strengthen your mind, body & spirit</div>
+                            <div className="col-sm-5 offset-sm-1 text-center animation animation-3">a black belt is a white belt that never quit</div>
+                        </div>
+                        <div className="row flex align-items-center my-5">
+                            <div className="col-sm-4 text-center animation animation-4">to fall 7 times and to rise 8, that is when life begins</div>
+                            {/* <div className="col-sm-3 text-center fade-in"><img src="tiger-sm.jpg" /></div> */}
+                            <div className="col-sm-5 text-center animation animation-5">a good day is not a day without chaos, but rather a day in which we remain calmwithin the chaos</div>
+                        </div>
+                        <div className="row flex align-items-center my-5">
+                            <div className="col-sm-6 text-center animation animation-6">move like a cat...strike like a tiger</div>
+                            <div className="col-sm-6 text-center animation animation-7">we will give out before we give in</div>
+                        </div>
+                        <div className="row flex align-items-center my-5">
+                            <div className="col-sm-12 text-center animation animation-8">a person who attains mastery of an art reveals it in their every action</div>
+                        </div>
+                        <div className="row flex align-items-center mt-5">
+                            <div className="col-sm-12 text-center mt-sm-5"><AudioPlayerIntro /></div>
+                        </div>
 
-                    {/* <div className='bannerTitle'>Lorum ipsum </div>
+                        {/* <div className='bannerTitle'>Lorum ipsum </div>
                     <div><img src={newsletterImage} className='responsiveImage' alt="newsletter" /></div> */}
 
-
+                    </div>
 
                 </div>
 
