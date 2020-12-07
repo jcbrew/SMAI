@@ -23,7 +23,7 @@ class Intro extends Component {
                         </div>
                     </div>
                     <div className="container">
-                        <div className="row flex align-items-center">
+                        <div className="row flex align-items-center mt-sm-3">
                             <div className="col-sm-11 col-sm-offset-1 text-center animation animation-9 my-3">with sweat and tears you enter the spirit of martial arts</div>
                         </div>
                         <div className="row flex align-items-center">
@@ -42,8 +42,8 @@ class Intro extends Component {
                             <div className="col-sm-6 text-center animation animation-6 my-3">move like a cat...strike like a tiger</div>
                             <div className="col-sm-6 text-center animation animation-7 my-3">we will give out before we give in</div>
                         </div>
-                        <div className="row flex align-items-center">
-                            <div className="col-sm-12 text-center animation animation-8 my-3">a person who attains mastery of an art reveals it in their every action</div>
+                        <div className="row flex align-items-center mb-sm-5">
+                            <div className="col-sm-12 text-center animation animation-8 my-5">a person who attains mastery of an art reveals it in their every action</div>
                         </div>
                         <div className="row flex align-items-center mt-5">
                             <div className="col-sm-12 text-center mt-sm-5"><AudioPlayerIntro /></div>

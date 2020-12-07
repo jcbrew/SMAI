@@ -37,7 +37,7 @@ body {
 
 @media (max-width: 991px){
     body {
-        font-size: 1.25rem;
+        font-size: 1rem;
     }
 }
 
@@ -47,16 +47,20 @@ body {
     padding: 1rem 0;
     top: 0;
     width: 100%;
-    color: #fff;
+    color: #fafafa;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fafafa;
 }
 
 a {
-    color: #fff;
+    color: #fafafa;
 }
 
 .logo {
     margin-right: 4rem;
-    margin-left: 2rem;
+    margin-left: 0rem;
     height: 80px;
 }
 
@@ -76,7 +80,7 @@ b, strong {
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: 'RobotoMedium';
+    font-family: 'RobotoLight';
     color: #9e0000;
 }
 
@@ -161,7 +165,7 @@ ul, ol {
   }
   @media (max-width: 991px){
     .btn {
-        font-size: 1.25rem;
+        font-size: 1rem;
     }
 } 
 
@@ -463,14 +467,14 @@ background-color: #fdf8eb;
     font-size: 1rem;
     line-height: 2rem;
     display:block; /*changed from flex*/
-    color:#fff;
+    color:#fafafa;
     background-color: #000;
     min-height: 15rem;
 }
 
 @media (max-width: 991px){
     .footer {
-        font-size: 1.25rem;
+        font-size: 1rem;
         line-height: 2rem;
     }
 }
@@ -491,7 +495,7 @@ background-color: #fdf8eb;
 }
 
 .contact-us {
-    color:#fff;
+    color:#fafafa;
     display:flex;
     background: rgb(32,1,34);
     background: -moz-linear-gradient(-45deg,  rgba(32,1,34,1) 0%, rgba(111,0,0,1) 100%);
@@ -501,7 +505,7 @@ background-color: #fdf8eb;
 }
 
 .contact-us h3{
-    color: #fff;
+    color: #fafafa;
 }
 
 .img-w-100 img {
@@ -529,6 +533,7 @@ background-color: #fdf8eb;
 
 .nav-link {
     color: #495057;
+    font-family: 'RobotoLight';
     /* background-color: #fff;
     border-color: #dee2e6 #dee2e6 #fff; */
 }
@@ -621,9 +626,51 @@ background-color: #fdf8eb;
 .btn.btn-dark.focus,
 .btn.btn-dark:focus,
 .btn.btn-dark:hover {
-  color: #fff;
+  color: #fafafa;
   background-color: #9e0000;;
   border-color: #9e0000;
   outline: none;
   box-shadow: none;
+}
+
+/*Accordion*/
+
+.card-header {
+    padding: .5rem .25rem .25rem;
+    border-bottom: 1px solid #9e0000;
+    background-color: #fdf8eb;
+}
+
+.card {
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px;
+    border-radius: 0;
+    margin-bottom: 0rem;
+}
+
+.btn-link {
+    font-size: 2rem;
+    color: #9e0000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.btn.btn-link.active.focus,
+.btn.btn-link.active:focus,
+.btn.btn-link.active:hover,
+.btn.btn-link:active.focus,
+.btn.btn-link:active:focus,
+.btn.btn-link:active:hover,
+.btn.btn-link.focus,
+.btn.btn-link:focus,
+.btn.btn-link:hover,
+.btn.btn-link.focus,
+.btn.btn-link:focus,
+.btn.btn-link:hover {
+  color: #9e0000;
+  outline: none;
+  box-shadow: none;
+  text-decoration: none;
+    text-transform: uppercase;
 }
