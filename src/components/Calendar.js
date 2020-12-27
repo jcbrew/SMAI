@@ -29,7 +29,7 @@ class Calendar extends Component {
                 </section>
 
 
-                <section>
+                <section className="mb-5">
                     <div className="row">
                         <div className="col-12"><h4>{this.props.day}</h4></div>
                     </div>
@@ -63,6 +63,13 @@ class Calendar extends Component {
                     </div>
 
                 </section>
+
+                <section>
+                    <p><strong>Attention Parents and Students:</strong> Classes are going very nicely. We are complying with all CDC guidelines. Students should come in uniform, bring a water bottle, mask, and mat shoes or socks. There will be a limited number of students in each class. Hurry up and schedule your classes!</p>
+                    <p>STUDENTS PLEASE HURRY BACK. WE MISS YOU!</p>
+                    <p>* See monthly calendar for special classes.</p>
+                </section>
+
                 {/* </div> */}
             </div>
         );

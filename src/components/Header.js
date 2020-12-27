@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '/logo.jpg';
+import logo2 from '/SMAI-Logo-2-80.png';
 
 const Header = () => {
     const style = {
@@ -52,8 +53,12 @@ const Header = () => {
                     <li className="nav-item">
                         <Link className="nav-link" to='/newsletter'>Newsletter</Link>
                     </li>
+                    <li className="nav-item">
+                        <img src={logo2} className='logo2' alt="Logo2" />
+                    </li>
                 </ul>
             </div>
+
         </nav>
     )
 }

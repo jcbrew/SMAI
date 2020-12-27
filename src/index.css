@@ -64,6 +64,21 @@ a {
     height: 80px;
 }
 
+.logo2 {
+    margin-right: 0rem;
+    margin-left: 0rem;
+    margin-top: 2rem;
+    height: 80px;
+}
+
+
+@media (min-width: 992px){
+    .logo2 {
+        margin-top: -1rem;
+        margin-left: 4rem;
+    }
+} 
+
 /* .pageWrapper{
     display: block;
     position: relative;
@@ -135,7 +150,7 @@ ul, ol {
     }
 
     .bannerWrapper.contact  {
-       background-image: url('/karate_banner03.jpg');
+       background-image: url('/karate_banner06.jpg');
      }
 
   .bannerTitle {
