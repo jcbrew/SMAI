@@ -7,8 +7,9 @@ import Footer from './Footer';
 class History extends Component {
 
   render() {
+
     return (
-      <div>
+      <div className="history-bg">
         <Header />
         <div className='bannerWrapper history'>
           <div className='bannerTitle'>History</div>
@@ -19,7 +20,7 @@ class History extends Component {
 
           <section>
             <div id="accordion">
-              <div class="card">
+              <div class="card mb-3">
                 <div class="card-header" id="headingOne">
                   <h5 class="mb-0">
                     <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -39,7 +40,7 @@ class History extends Component {
                   </div>
                 </div>
               </div>
-              <div class="card">
+              <div class="card mb-3">
                 <div class="card-header" id="headingTwo">
                   <h5 class="mb-0">
                     <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -55,7 +56,7 @@ class History extends Component {
                   </div>
                 </div>
               </div>
-              <div class="card">
+              <div class="card mb-3">
                 <div class="card-header" id="headingThree">
                   <h5 class="mb-0">
                     <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -70,7 +71,7 @@ class History extends Component {
                   </div>
                 </div>
               </div>
-              <div class="card">
+              <div class="card mb-3">
                 <div class="card-header" id="headingFour">
                   <h5 class="mb-0">
                     <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
@@ -86,7 +87,7 @@ class History extends Component {
                   </div>
                 </div>
               </div>
-              <div class="card">
+              <div class="card mb-3">
                 <div class="card-header" id="headingFive">
                   <h5 class="mb-0">
                     <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
@@ -170,6 +171,11 @@ class History extends Component {
       </div>
     );
   }
+
+  componentDidMount() {
+    window.scrollTo(0, 0)
+  }
+
 }
 
 export default History;

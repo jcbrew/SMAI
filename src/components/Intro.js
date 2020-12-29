@@ -61,8 +61,8 @@ class Intro extends Component {
                     <section>
                         <p>The Southfield Martial Arts Institute is the ultimate contemporary training complex. It’s over 15,000 square foot state-of-the-art facility makes it one of the largest and finest martial art schools in the country.</p>
                         <p>Frequent practice regimes and structured programs go on seven days a week. At Southfield Martial Arts Institute, commitment and discipline are what it is all about. Our school has a diverse make-up of students including children, seniors, laborers and professionals. Everyone works together and helps one another achieve the highest level of martial arts education.</p>
-                        <p>Southfield Martial Arts InstituteIn 1987, Grand Master Willie Adams was inducted into the Karate Hall of Fame. Today, he is head instructor at the Southfield Martial Arts Institute and president of the Karate International Association of Isshinryu. As a 10th degree black belt, Grand Master Adams has been a major figure on the Metro Detroit karate scene for over 40 years.</p>
-                        <p>The highest ranking Isshinryu Master Instructor is Harold Mitchum. He was the senior American on Okinawa with Grandmaster Tatsu Shimabuku. He was made president of Hanshi Shimabuku's association on Okinawa called the Okinawan American Karate Association. Hanshi Mitchum recognized Hanshi Adams as a 10th degree black belt in June of 2008.</p>
+                        <p>In 1987, Grand Master Willie Adams was inducted into the Karate Hall of Fame. Today, he is head instructor at the Southfield Martial Arts Institute and president of the Karate International Association of Isshinryu. As a 10th degree black belt, Grand Master Adams has been a major figure on the Metro Detroit karate scene for over 40 years.</p>
+                        <p>The highest ranking Isshinryu Master Instructor was Harold Mitchum before he passed away on June 11, 2016. He was the senior American on Okinawa with Grandmaster Tatsu Shimabuku. He was made president of Hanshi Shimabuku's association on Okinawa called the Okinawan American Karate Association. Hanshi Mitchum recognized Hanshi Adams as a 10th degree black belt in June of 2008.</p>
                         <p>Southfield Martial Arts Institute facility includes several other certified black belts, both male and female, who assist in the class. And Grand Master Adams personally oversees the action in every class taught at the school.</p>
                         <p>Southfield Martial Arts, home of the North American Karate Championship, is located on the northeast corner of Southfield and 12 mile road making it convenient to every city in metro Detroit.</p>
 
@@ -83,6 +83,10 @@ class Intro extends Component {
 
 
         );
+    }
+
+    componentDidMount() {
+        window.scrollTo(0, 0)
     }
 }
 

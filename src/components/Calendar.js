@@ -29,7 +29,7 @@ class Calendar extends Component {
                 </section>
 
 
-                <section className="mb-5">
+                <section className="mb-3">
                     <div className="row">
                         <div className="col-12"><h4>{this.props.day}</h4></div>
                     </div>

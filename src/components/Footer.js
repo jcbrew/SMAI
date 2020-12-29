@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import logo2 from '/logo-tainted.jpg';
+import logo3 from '/logo-tainted.jpg';
 
 {/* <ul className="navbar-nav mr-auto">
     <li className="nav-item">
@@ -33,7 +33,7 @@ const Footer = () => {
 
             <div className="row p-3">
                 <div className="col-lg-3 footer-logo">
-                    <Link to='/'><img src={logo2} className='logo2' alt="Logo" /></Link>
+                    <Link to='/'><img src={logo3} className='logo3' alt="Logo" /></Link>
                 </div>
                 <div className="col-lg-3 ">
                     <p><Link to='/'>Home</Link></p>

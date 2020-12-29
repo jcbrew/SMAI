@@ -11,7 +11,7 @@ class Faq extends Component {
             <div className="mb-5">
 
 
-                <h3>Common Questions About Karate</h3>
+                <h3>xxxCommon Questions About Karate</h3>
                 <section className='masterButtons'>
                     <button onClick={this.props.onQ1} className='btn btn-dark mr-2 my-2'>What is Karate?</button>
                     <button onClick={this.props.onQ4} className='btn btn-dark mr-2 my-2'>What will I learn in the beginning?</button>

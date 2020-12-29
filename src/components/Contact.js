@@ -17,6 +17,8 @@ class Contact extends Component {
 
         //.catch(() => console.log("Can’t access " + url + " response. Blocked by browser?"));
 
+        window.scrollTo(0, 0)
+
     }
 
     render() {

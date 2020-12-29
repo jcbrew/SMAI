@@ -21,7 +21,7 @@ const Rules = () => {
             <div className="tab-content mt-5">
                 <div id="beforeClass" className="container tab-pane active pt-3">
                     <h4>Before Class</h4>
-                    <ul>
+                    <ul className="dojoRules">
                         <li>Students should enter the dojo 10 minutes prior to their class.</li>
                         <li>Please sign in when you arrive.</li>
                         <li>Shoes should be removed and placed neatly on the shoe rack.</li>
@@ -36,7 +36,7 @@ const Rules = () => {
                 </div>
                 <div id="duringClass" className="container tab-pane fade pt-3">
                     <h4>During Class</h4>
-                    <ul>
+                    <ul className="dojoRules">
                         <li>No profanity</li>
                         <li>No gum chewing</li>
                         <li>Line up quickly when called.</li>

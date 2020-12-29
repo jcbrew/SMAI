@@ -79,6 +79,22 @@ a {
     }
 } 
 
+
+.logo3 {
+    margin-right: 0rem;
+    margin-left: 0rem;
+    margin-top: 2rem;
+    height: 80px;
+}
+
+
+/* @media (min-width: 992px){
+    .logo3 {
+        margin-top: -1rem;
+        margin-left: 4rem;
+    }
+}  */
+
 /* .pageWrapper{
     display: block;
     position: relative;
@@ -156,12 +172,18 @@ ul, ol {
   .bannerTitle {
         display: flex;
         text-transform: uppercase;
-        font-size: 10vw;
+        font-size: 15vw;
         align-self: flex-end;
         font-family: RobotoBold;
         line-height: .8;
         opacity: 0.5;
         color: white;
+  }
+
+  .history-bg {
+      background-image: url('/karate-history-bg-opt.jpg');
+      background-position: top center;
+      background-size: cover;
   }
 
   .boldText{
@@ -574,17 +596,28 @@ background-color: #fdf8eb;
 
 .tab-content {
     background-color: rgba(255,255,255,.5);
-    padding: .5rem;
+    padding: .125rem;
     border-radius: 0px 0px 0px 0px;
-    margin: 0px 2rem !important;
+    margin: 0 !important;
 }
 
 .nav-tabs {
     border-bottom: 2px solid rgb(158,0,0);
 }
 
+ul.nav-tabs {
+    margin: 0px;
+}
+
 .nav-tabs .nav-item {
     margin-bottom: 1px;
+    min-width: 9rem;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
 }
 
 /* Slick Slider */
@@ -626,7 +659,8 @@ background-color: #fdf8eb;
 }}
     @media (min-width: 1200px){
 .container {
-    max-width: 1140px;
+    /* Changed from 1140px */
+    max-width: 960px; 
 }}
 
 .btn.btn-dark.active.focus,
@@ -651,9 +685,10 @@ background-color: #fdf8eb;
 /*Accordion*/
 
 .card-header {
-    padding: .5rem .25rem .25rem;
-    border-bottom: 1px solid #9e0000;
-    background-color: #fdf8eb;
+    padding: .125rem .125rem .125rem;
+    border-bottom: 0px solid #9e0000;
+    /* background-color: #fdf8eb; */
+    background-color: #9e0000;
 }
 
 .card {
@@ -665,8 +700,9 @@ background-color: #fdf8eb;
 }
 
 .btn-link {
-    font-size: 2rem;
-    color: #9e0000;
+    font-size: 1.5rem;
+    /* color: #9e0000; */
+    color: #fdf8eb;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -683,9 +719,14 @@ background-color: #fdf8eb;
 .btn.btn-link.focus,
 .btn.btn-link:focus,
 .btn.btn-link:hover {
-  color: #9e0000;
+  /* color: #9e0000; */
+  color: #fdf8eb;
   outline: none;
   box-shadow: none;
   text-decoration: none;
     text-transform: uppercase;
+}
+
+ul.dojoRules{
+    margin:0px 30px 30px;
 }
