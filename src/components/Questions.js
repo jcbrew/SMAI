@@ -1,4 +1,5 @@
 import React from 'react';
+import mizugami from '/assets/mizu-gami-250.png';
 
 
 const Questions = () => {
@@ -94,7 +95,7 @@ const Questions = () => {
                 </div>
                 <div id="q8" className="content tab-pane fade">
                     <h4><em>Why Isshinryu Karate?</em></h4>
-                    <p>Isshinryu (one heart/mind) was developed by Sensei Shimabuku, Okinawa's Grand Master of Shorin-Ryu, who devoted his life to the study of karate. He was a master of Goju-Ryu; studied Kobayshi-Ryu under famous Chotokan Kiyan and later under legendary Choki Motobu. He then studied the art of Bo and Sai weapons defense and Tee-faa under Okinawa's most noted instructors. Master Shimabuku combined the best of these styles into Isshinryu, which epitomizes the powerful, lightening-fast techniques that in ancient times enabled the weaponless Okinawans to defeat the sword-wielding Samurai warriors of Japan.</p>
+                    <img className='float-right pl-3 pb-3' src={mizugami} /><p>Isshinryu (one heart/mind) was developed by Sensei Shimabuku, Okinawa's Grand Master of Shorin-Ryu, who devoted his life to the study of karate. He was a master of Goju-Ryu; studied Kobayshi-Ryu under famous Chotokan Kiyan and later under legendary Choki Motobu. He then studied the art of Bo and Sai weapons defense and Tee-faa under Okinawa's most noted instructors. Master Shimabuku combined the best of these styles into Isshinryu, which epitomizes the powerful, lightening-fast techniques that in ancient times enabled the weaponless Okinawans to defeat the sword-wielding Samurai warriors of Japan.</p>
 
                     <p>Isshinryu's main objective is the perfection of oneself through both physical and mental development. As students learn the art of self defense, they acquire self-confidence, serenity and the ability to concentrate. Isshinryu Karate combines a well rounded exercise program with some important advantages over other styles, including:</p>
 

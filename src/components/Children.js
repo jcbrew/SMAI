@@ -4,6 +4,7 @@ import img1 from '/assets/76863442-academic_800.jpg';
 import img2 from '/assets/76746432-self-esteem_800.jpg';
 import img3 from '/assets/33150246-smart-boy_800.jpg';
 import img4 from '/assets/38312008-bully_800.jpg';
+import kids01 from '/assets/kids_thumbsUp.jpg';
 
 import ContactUs from './ContactUs';
 
@@ -66,7 +67,7 @@ class Children extends Component {
                         <div className='row'>
                             <div className='col-12'>
 
-                                <p>The question is, how do you get your child to fight these demons? You know the problem; your child has a tough time even telling you she's haunted by them - never mind how she might conquer them. The good news is I have a proven solution: a program that has already worked for over 3,000 local area children. A series kidsof lessons your child can learn easier than you think. I call it, "Kids With Kick." Let me tell you it's secret.</p>
+                                <img className='float-right pl-3 pb-3' src={kids01} /><p>The question is, how do you get your child to fight these demons? You know the problem; your child has a tough time even telling you she's haunted by them - never mind how she might conquer them. The good news is I have a proven solution: a program that has already worked for over 3,000 local area children. A series kidsof lessons your child can learn easier than you think. I call it, "Kids With Kick." Let me tell you it's secret.</p>
 
                                 <p>To repeat, martial arts are less about your child learning to fight others, and more about fighting... himself: His innermost fears. Conquer them, and your child unleashes within himself a powerful, unstoppable force; a force that gives him the strength to kick down the doors of his own self doubts; a force that opens your child to the exalting power of values.</p>
 

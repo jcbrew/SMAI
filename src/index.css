@@ -180,6 +180,12 @@ ul, ol {
         color: white;
   }
 
+  @media (min-width: 992px){
+      .bannerTitle{
+          font-size: 10vw;
+      }
+    }
+    
   .history-bg {
       background-image: url('/karate-history-bg-opt.jpg');
       background-position: top center;
@@ -238,6 +244,7 @@ ul, ol {
     animation-name: animatedIntroText;
     animation-fill-mode: both;
     -webkit-animation-fill-mode: both;
+    z-index: 99;
 }
 
 .fadeIn-tiger{
@@ -347,7 +354,7 @@ ul, ol {
 
 .fade-in-tiger {
     position: absolute;
-    z-index: 99;
+    z-index: 0;
     /* margin: 10px 0; */
     -webkit-animation-name: fadeIn;
     animation-name: fadeIn;
@@ -363,11 +370,16 @@ ul, ol {
 .fade-in-tiger img {
     max-width: 1000px;
     display: block;
+    z-index: 0;
+    opacity: .5;
 }
 
 @media (max-width: 991px){
     .fade-in-tiger img {
-        display: none;
+        /* display: none; */
+        max-width: 100%;
+        /* z-index: 1;
+        opacity: .5; */
     }
 }
 
@@ -381,7 +393,7 @@ ul, ol {
     }
 
     100% {
-        color: rgba(255, 255, 255, .5);
+        color: rgba(255, 255, 255, .8);
         left: 0px;
         top: 0px;
         opacity: 1;
@@ -398,7 +410,7 @@ ul, ol {
     }
 
     100% {
-        color: rgba(255, 255, 255, .5);
+        color: rgba(255, 255, 255, .8);
         left: 0px;
         top: 0px;
         opacity: 1;
