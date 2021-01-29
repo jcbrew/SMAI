@@ -58,7 +58,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="row px-3 pb-3">
-                <div className="col-md-9">Copyright © 2020 Southfield Martial Arts. All rights reserved. Powered by: <a href="https://www.jcbdigital.com" target="_blank">JCB Digital </a>| Sitemap</div>
+                <div className="col-md-9">Copyright © 2021 Southfield Martial Arts. All rights reserved. Powered by: <a href="https://www.jcbdigital.com" target="_blank">JCB Digital </a></div>
                 <div className="col-md-3 text-right text-lg-left"><p><a href="https://www.facebook.com/southfield.karate" target="_blank">Facebook</a></p></div>
             </div>
         </div >

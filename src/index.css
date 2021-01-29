@@ -58,6 +58,10 @@ a {
     color: #fafafa;
 }
 
+a.darklink {
+    color:#9e0000;
+}
+
 .logo {
     margin-right: 4rem;
     margin-left: 0rem;
@@ -742,3 +746,4 @@ ul.nav-tabs {
 ul.dojoRules{
     margin:0px 30px 30px;
 }
+
